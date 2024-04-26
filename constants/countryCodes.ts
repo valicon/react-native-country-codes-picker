@@ -4,7 +4,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Afghanistan",
-            "da": "Afghanistan",
             "ru": "Афганистан",
             "pl": "Afganistan",
             "ua": "Афганістан",
@@ -24,8 +23,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "アフガニスタン",
             "he": "אפגניסטן",
             "el": "Αφγανιστάν",
-            "ar": 'أفغانستان',
-            "tr": "Afganistan"
+            "ar": 'أفغانستان'
         },
         "dial_code": "+93",
         "code": "AF",
@@ -33,8 +31,12 @@ export const countryCodes: CountryItem[] = [
     },
     {
         "name": {
+            "sl": "Albanija",
+            "hr": "Albanija",
+            "mk": "Албанија",
+            "sq": "Shqipëriac",
+            "sr": "Албанијаc / Albanija",
             "en": "Albania",
-            "da": "Albanien",
             "ru": "Албания",
             "pl": "Albania",
             "ua": "Албанія",
@@ -54,8 +56,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "アルバニア",
             "he": "אלבניה",
             "el": "Αλβανία",
-            "ar": "ألبانيا",
-            "tr": "Arnavutluk"
+            "ar": "ألبانيا"
         },
         "dial_code": "+355",
         "code": "AL",
@@ -64,7 +65,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Algeria",
-            "da": "Algeriet",
             "ru": "Алжир",
             "pl": "Algieria",
             "ua": "Алжир",
@@ -84,8 +84,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "アルジェリア",
             "he": "אלג'יריה",
             "el": "Αλγερία",
-            "ar": "الجزائر",
-            "tr": "Cezayir"
+            "ar": "الجزائر"
+
         },
         "dial_code": "+213",
         "code": "DZ",
@@ -94,7 +94,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "American Samoa",
-            "da": "Amerikansk Samoa",
             "ru": "Американское Самоа",
             "pl": "Samoa Amerykańskie",
             "ua": "Американське Самоа",
@@ -114,8 +113,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "アメリカ領サモア",
             "he": "סמואה האמריקנית",
             "el": "Αμερικανική Σαμόα",
-            "ar": "أندورا",
-            "tr": "Amerikan Samoası"
+            "ar": "أندورا"
         },
         "dial_code": "+1684",
         "code": "AS",
@@ -124,7 +122,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Andorra",
-            "da": "Andorra",
             "ru": "Андорра",
             "pl": "Andora",
             "ua": "Андорра",
@@ -144,8 +141,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "アンドラ",
             "he": "אנדורה",
             "el": "Ανδόρρα",
-            "ar": "أنغولا",
-            "tr": "Andorra"
+            "ar": "أنغولا"
         },
         "dial_code": "+376",
         "code": "AD",
@@ -154,7 +150,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Angola",
-            "da": "Angola",
             "ru": "Ангола",
             "pl": "Angola",
             "ua": "Ангола",
@@ -174,8 +169,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "アンゴラ",
             "he": "אנגולה",
             "el": "Ανγκόλα",
-            "ar": "أنغولا",
-            "tr": "Angola"
+            "ar": "أنغولا"
         },
         "dial_code": "+244",
         "code": "AO",
@@ -184,7 +178,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Anguilla",
-            "da": "Anguilla",
             "ru": "Ангилья",
             "pl": "Anguilla",
             "ua": "Ангілья",
@@ -204,8 +197,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "アンギラ",
             "he": "אנגווילה",
             "el": "Ανγκουίλα",
-            "ar": "",
-            "tr": "Anguilla"
+            "ar": ""
+
         },
         "dial_code": "+1264",
         "code": "AI",
@@ -214,7 +207,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Antarctica",
-            "da": "Antarktis",
             "ru": "Антарктида",
             "pl": "Antarktyda",
             "ua": "Антарктида",
@@ -234,8 +226,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "南極大陸",
             "he": "אנטארקטיקה",
             "el": "Ανταρκτική",
-            "ar": "القارة القطبية الجنوبية",
-            "tr": "Antarktika"
+            "ar": "القارة القطبية الجنوبية"
         },
         "dial_code": "+672",
         "code": "AQ",
@@ -244,7 +235,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Antigua and Barbuda",
-            "da": "Antigua og Barbuda",
             "ru": "Антигуа и Барбуда",
             "pl": "Antigua i Barbuda",
             "ua": "Антигуа та Барбуда",
@@ -264,8 +254,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "アンティグアバーブーダ",
             "he": "אנטיגואה וברבודה",
             "el": "Αντίγκουα και Μπαρμπούντα",
-            "ar": "أنتيغوا وبربودا",
-            "tr": "Antigua ve Barbuda"
+            "ar": "أنتيغوا وبربودا"
         },
         "dial_code": "+1268",
         "code": "AG",
@@ -274,7 +263,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Argentina",
-            "da": "Argentina",
             "ru": "Аргентина",
             "pl": "Argentyna",
             "ua": "Аргентина",
@@ -294,8 +282,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "アルゼンチン",
             "he": "ארגנטינה",
             "el": "Αργεντινή",
-            "ar": "الأرجنتين",
-            "tr": "Arjantin"
+            "ar": "الأرجنتين"
         },
         "dial_code": "+54",
         "code": "AR",
@@ -304,7 +291,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Armenia",
-            "da": "Armenien",
             "ru": "Армения",
             "pl": "Armenia",
             "ua": "Вірменія",
@@ -324,8 +310,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "アルメニア",
             "he": "ארמניה",
             "el": "Αρμενία",
-            "ar": "أرمينيا",
-            "tr": "Ermenistan"
+            "ar": "أرمينيا"
         },
         "dial_code": "+374",
         "code": "AM",
@@ -334,7 +319,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Aruba",
-            "da": "Aruba",
             "ru": "Аруба",
             "pl": "Aruba",
             "ua": "Аруба",
@@ -354,8 +338,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "アルバ",
             "he": "ארובה",
             "el": "Αρούμπα",
-            "ar": "أروبا",
-            "tr": "Aruba"
+            "ar": "أروبا"
+
+
         },
         "dial_code": "+297",
         "code": "AW",
@@ -364,7 +349,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Australia",
-            "da": "Australien",
             "ru": "Австралия",
             "pl": "Australia",
             "ua": "Австралія",
@@ -384,8 +368,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "オーストラリア",
             "he": "אוסטרליה",
             "el": "Αυστραλία",
-            "ar": "أستراليا",
-            "tr": "Avustralya"
+            "ar": "أستراليا"
         },
         "dial_code": "+61",
         "code": "AU",
@@ -394,7 +377,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Austria",
-            "da": "Østrig",
             "ru": "Австрия",
             "pl": "Austria",
             "ua": "Австрія",
@@ -414,8 +396,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "オーストリア",
             "he": "אוסטריה",
             "el": "Αυστρία",
-            "ar": "النمسا",
-            "tr": "Avusturya"
+            "ar": "النمسا"
         },
         "dial_code": "+43",
         "code": "AT",
@@ -424,7 +405,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Azerbaijan",
-            "da": "Aserbajdsjan",
             "ru": "Азербайджан",
             "pl": "Azerbejdżan",
             "ua": "Азербайджан",
@@ -444,8 +424,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "アゼルバイジャン",
             "he": "אזרבייג'ן",
             "el": "Αζερμπαϊτζάν",
-            "ar": "أذربيجان",
-            "tr": "Azerbaycan"
+            "ar": "أذربيجان"
         },
         "dial_code": "+994",
         "code": "AZ",
@@ -454,7 +433,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Bahamas",
-            "da": "Bahamas",
             "ru": "Багамские Острова",
             "pl": "Bahamy",
             "ua": "Багамські острови",
@@ -474,8 +452,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "バハマ",
             "he": "איי בהאמה",
             "el": "Μπαχάμες",
-            "ar": "باهاماس",
-            "tr": "Bahamalar"
+            "ar": "باهاماس"
         },
         "dial_code": "+1242",
         "code": "BS",
@@ -484,7 +461,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Bahrain",
-            "da": "Bahrain",
             "ru": "Бахрейн",
             "pl": "Bahrajn",
             "ua": "Бахрейн",
@@ -504,8 +480,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "バーレーン",
             "he": "בחריין",
             "el": "Μπαχρέιν",
-            "ar": "البحرين",
-            "tr": "Bahreyn"
+            "ar": "البحرين"
         },
         "dial_code": "+973",
         "code": "BH",
@@ -514,7 +489,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Bangladesh",
-            "da": "Bangladesh",
             "ru": "Бангладеш",
             "pl": "Bangladesz",
             "ua": "Бангладеш",
@@ -534,8 +508,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "バングラデシュ",
             "he": "בנגלדש",
             "el": "Μπανγκλαντές",
-            "ar": "بنغلاديش",
-            "tr": "Bangladeş"
+            "ar": "بنغلاديش"
         },
         "dial_code": "+880",
         "code": "BD",
@@ -544,7 +517,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Barbados",
-            "da": "Barbados",
             "ru": "Барбадос",
             "pl": "Barbados",
             "ua": "Барбадос",
@@ -564,8 +536,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "バルバドス",
             "he": "ברבדוס",
             "el": "Μπαρμπάντος",
-            "ar": "باربادوس",
-            "tr": "Barbados"
+            "ar": "باربادوس"
         },
         "dial_code": "+1246",
         "code": "BB",
@@ -574,7 +545,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Belarus",
-            "da": "Belarus",
             "ru": "Белоруссия",
             "pl": "Białoruś",
             "ua": "Білорусь",
@@ -594,8 +564,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ベラルーシ",
             "he": "בלארוס",
             "el": "Λευκορωσία",
-            "ar": "بيلاروسيا",
-            "tr": "Beyaz Rusya"
+            "ar": "بيلاروسيا"
         },
         "dial_code": "+375",
         "code": "BY",
@@ -604,7 +573,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Belgium",
-            "da": "Belgien",
             "ru": "Бельгия",
             "pl": "Belgia",
             "ua": "Бельгія",
@@ -624,8 +592,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ベルギー",
             "he": "בלגיה",
             "el": "Βέλγιο",
-            "ar": "بلجيكا",
-            "tr": "Belçika"
+            "ar": "بلجيكا"
         },
         "dial_code": "+32",
         "code": "BE",
@@ -634,7 +601,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Belize",
-            "da": "Belize",
             "ru": "Белиз",
             "pl": "Belize",
             "ua": "Беліз",
@@ -654,8 +620,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ベリーズ",
             "he": "בליז",
             "el": "Μπελίζ",
-            "ar": "بليز",
-            "tr": "Belize"
+            "ar": "بليز"
         },
         "dial_code": "+501",
         "code": "BZ",
@@ -664,7 +629,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Benin",
-            "da": "Benin",
             "ru": "Бенин",
             "pl": "Benin",
             "ua": "Бенін",
@@ -684,8 +648,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ベナン",
             "he": "בנין",
             "el": "Μπενίν",
-            "ar": "بنين",
-            "tr": "Benin"
+            "ar": "بنين"
         },
         "dial_code": "+229",
         "code": "BJ",
@@ -694,7 +657,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Bermuda",
-            "da": "Bermuda",
             "ru": "Бермуды",
             "pl": "Bermudy",
             "ua": "Бермуди",
@@ -714,8 +676,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "バミューダ",
             "he": "ברמודה",
             "el": "Βερμούδες",
-            "ar": "برمودا",
-            "tr": "Bermuda"
+            "ar": "برمودا"
+
+
         },
         "dial_code": "+1441",
         "code": "BM",
@@ -724,7 +687,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Bhutan",
-            "da": "Bhutan",
             "ru": "Бутан",
             "pl": "Bhutan",
             "ua": "Бутан",
@@ -744,8 +706,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "ブータン",
             "he": "בהוטן",
             "el": "Μπουτάν",
-            "ar": "بوتان",
-            "tr": "Butan"
+            "ar": "بوتان"
+
         },
         "dial_code": "+975",
         "code": "BT",
@@ -754,7 +716,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Bolivia",
-            "da": "Bolivia",
             "ru": "Боливия",
             "pl": "Boliwia",
             "ua": "Болівія",
@@ -774,8 +735,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ボリビア",
             "he": "בוליביה",
             "el": "Βολιβία",
-            "ar": "بوليفيا",
-            "tr": "Bolivya"
+            "ar": "بوليفيا"
         },
         "dial_code": "+591",
         "code": "BO",
@@ -784,7 +744,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Bosnia and Herzegovina",
-            "da": "Bosnien og Hercegovina",
             "ru": "Босния и Герцеговина",
             "pl": "Bośnia i Hercegowina",
             "ua": "Боснія і Герцеговина",
@@ -804,8 +763,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ボスニア・ヘルツェゴビナ",
             "he": "בוסניה והרצגובינה",
             "el": "Βοσνία και Ερζεγοβίνη",
-            "ar": "البوسنة والهرسك",
-            "tr": "Bosna Hersek"
+            "ar": "البوسنة والهرسك"
         },
         "dial_code": "+387",
         "code": "BA",
@@ -814,7 +772,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Botswana",
-            "da": "Botswana",
             "ru": "Ботсвана",
             "pl": "Botswana",
             "ua": "Ботсвана",
@@ -834,8 +791,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ボツワナ",
             "he": "בוצואנה",
             "el": "Μποτσουάνα",
-            "ar": "بوتسوانا",
-            "tr": "Botsvana"
+            "ar": "بوتسوانا"
         },
         "dial_code": "+267",
         "code": "BW",
@@ -844,7 +800,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Brazil",
-            "da": "Brasilien",
             "ru": "Бразилия",
             "pl": "Brazylia",
             "ua": "Бразилія",
@@ -865,7 +820,7 @@ export const countryCodes: CountryItem[] = [
             "he": "ברזיל",
             "el": "Βραζιλία",
             "ar": "البرازيل",
-            "tr": "Brezilya"
+
         },
         "dial_code": "+55",
         "code": "BR",
@@ -874,7 +829,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "British Indian Ocean Territory",
-            "da": "Britisk territorium i Det Indiske Ocean",
             "ru": "Британская территория Индийского океана",
             "pl": "Brytyjskie Terytorium Oceanu Indyjskiego",
             "ua": "Британська територія в Індійському океані",
@@ -894,8 +848,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "イギリス領インド洋地域",
             "he": "טריטוריית האוקיינוס ​​ההודי הבריטי",
             "el": "Βρετανικά Εδάφη Ινδικού Ωκεανού",
-            "ar": "إقليم المحيط الهندي البريطاني",
-            "tr": "Britanya Hint Okyanusu Toprakları"
+            "ar": "إقليم المحيط الهندي البريطاني"
+
         },
         "dial_code": "+246",
         "code": "IO",
@@ -904,7 +858,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Brunei Darussalam",
-            "da": "Brunei Darussalam",
             "ru": "Бруней-Даруссалам",
             "pl": "Brunei Darussalam",
             "ua": "Бруней-Даруссалам",
@@ -924,8 +877,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ブルネイダルサラーム",
             "he": "ברוניי דארוסלאם",
             "el": "Μπρουνέι",
-            "ar": "بروناي",
-            "tr": "Brunei"
+            "ar": "بروناي"
         },
         "dial_code": "+673",
         "code": "BN",
@@ -934,7 +886,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Bulgaria",
-            "da": "Bulgarien",
             "ru": "Болгария",
             "pl": "Bułgaria",
             "ua": "Болгарія",
@@ -954,8 +905,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ブルガリア",
             "he": "בולגריה",
             "el": "Βουλγαρία",
-            "ar": "بلغاريا",
-            "tr": "Bulgaristan"
+            "ar": "بلغاريا"
         },
         "dial_code": "+359",
         "code": "BG",
@@ -964,7 +914,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Burkina Faso",
-            "da": "Burkina Faso",
             "ru": "Буркина-Фасо",
             "pl": "Burkina Faso",
             "ua": "Буркіна-Фасо",
@@ -984,8 +933,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ブルキナファソ",
             "he": "בורקינה פאסו",
             "el": "Μπουρκίνα Φάσο",
-            "ar": "بوركينا فاسو",
-            "tr": "Burkina Faso"
+            "ar": "بوركينا فاسو"
         },
         "dial_code": "+226",
         "code": "BF",
@@ -994,7 +942,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Burundi",
-            "da": "Burundi",
             "ru": "Бурунди",
             "pl": "Burundi",
             "ua": "Бурунді",
@@ -1014,8 +961,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ブルンジ",
             "he": "בורונדי",
             "el": "Μπουρούντι",
-            "ar": "بوروندي",
-            "tr": "Burundi"
+            "ar": "بوروندي"
         },
         "dial_code": "+257",
         "code": "BI",
@@ -1024,7 +970,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Cambodia",
-            "da": "Cambodja",
             "ru": "Камбоджа",
             "pl": "Kambodża",
             "ua": "Камбоджа",
@@ -1044,8 +989,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "カンボジア",
             "he": "קמבודיה",
             "el": "Καμπότζη",
-            "ar": "كمبوديا",
-            "tr": "Kamboçya"
+            "ar": "كمبوديا"
         },
         "dial_code": "+855",
         "code": "KH",
@@ -1054,7 +998,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Cameroon",
-            "da": "Cameroun",
             "ru": "Камерун",
             "pl": "Kamerun",
             "ua": "Камерун",
@@ -1074,8 +1017,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "カメルーン",
             "he": "קמרון",
             "el": "Καμερούν",
-            "ar": "الكاميرون",
-            "tr": "Kamerun"
+            "ar": "الكاميرون"
         },
         "dial_code": "+237",
         "code": "CM",
@@ -1084,7 +1026,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Canada",
-            "da": "Canada",
             "ru": "Канада",
             "pl": "Kanada",
             "ua": "Канада",
@@ -1104,8 +1045,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "カナダ",
             "he": "קנדה",
             "el": "Καναδάς",
-            "ar": "كندا",
-            "tr": "Kanada"
+            "ar": "كندا"
         },
         "dial_code": "+1",
         "code": "CA",
@@ -1114,7 +1054,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Cape Verde",
-            "da": "Kap Verde",
             "ru": "Кабо-Верде",
             "pl": "Wyspy Zielonego Przylądka",
             "ua": "Кабо-Верде",
@@ -1134,8 +1073,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "カーボベルデ",
             "he": "קייפ ורדה",
             "el": "Πράσινο Ακρωτήριο",
-            "ar": "الرأس الأخضر",
-            "tr": "Cape Verde"
+            "ar": "الرأس الأخضر"
         },
         "dial_code": "+238",
         "code": "CV",
@@ -1144,7 +1082,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Cayman Islands",
-            "da": "Caymanøerne",
             "ru": "Каймановы острова",
             "pl": "Kajmany",
             "ua": "Кайманові острови",
@@ -1164,8 +1101,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "ケイマン諸島",
             "he": "איי קיימן",
             "el": "Νήσοι Κέιμαν",
-            "ar": "جزر كايمان",
-            "tr": "Cayman Adaları"
+            "ar": "جزر كايمان"
+
         },
         "dial_code": "+345",
         "code": "KY",
@@ -1174,7 +1111,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Central African Republic",
-            "da": "Den Centralafrikanske Republik",
             "ru": "Центрально-Африканская Республика",
             "pl": "Republika Środkowoafrykańska",
             "ua": "Центральноафриканська Республіка",
@@ -1194,8 +1130,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "中央アフリカ共和国",
             "he": "הרפובליקה המרכז - אפריקאית",
             "el": "Κεντροαφρικανική Δημοκρατία",
-            "ar": "جمهورية أفريقيا الوسطى",
-            "tr": "Orta Afrika Cumhuriyeti"
+            "ar": "جمهورية أفريقيا الوسطى"
+
+
         },
         "dial_code": "+236",
         "code": "CF",
@@ -1204,7 +1141,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Chad",
-            "da": "Chad",
             "ru": "Чад",
             "pl": "Czad",
             "ua": "Чад",
@@ -1224,8 +1160,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "チャド",
             "he": "צ'אד",
             "el": "Τσαντ",
-            "ar": "تشاد",
-            "tr": "Çad"
+            "ar": "تشاد"
+
         },
         "dial_code": "+235",
         "code": "TD",
@@ -1234,7 +1170,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Chile",
-            "da": "Chile",
             "ru": "Чили",
             "pl": "Chile",
             "ua": "Чилі",
@@ -1254,8 +1189,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "チリ",
             "he": "צ'ילה",
             "el": "Χιλή",
-            "ar": "شيلي",
-            "tr": "Şili"
+            "ar": "شيلي"
         },
         "dial_code": "+56",
         "code": "CL",
@@ -1264,7 +1198,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "China",
-            "da": "Kina",
             "ru": "Китай",
             "pl": "Chiny",
             "ua": "Китай",
@@ -1284,8 +1217,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "中国",
             "he": "חרסינה",
             "el": "Κίνα",
-            "ar": "الصين",
-            "tr": "Çin"
+            "ar": "الصين"
         },
         "dial_code": "+86",
         "code": "CN",
@@ -1294,7 +1226,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Christmas Island",
-            "da": "Juleøen",
             "ru": "Остров Рождества",
             "pl": "Wyspa Bożego Narodzenia",
             "ua": "Острів Різдва",
@@ -1314,8 +1245,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "クリスマス島",
             "he": "אי חג המולד",
             "el": "Νήσος των Χριστουγέννων",
-            "ar": "جزيرة الكريسماس",
-            "tr": "Christmas Adası"
+            "ar": "جزيرة الكريسماس"
+
+
         },
         "dial_code": "+61",
         "code": "CX",
@@ -1324,7 +1256,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Cocos (Keeling) Islands",
-            "da": "Cocos (Keeling) Øerne",
             "ru": "Кокосовые (Килинг) острова",
             "pl": "Wyspy Kokosowe (Keelinga)",
             "ua": "Кокосові (Кілінг) острови",
@@ -1344,8 +1275,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "ココス（キーリング）諸島",
             "he": "איי קוקוס (קילינג).",
             "el": "Νησιά Κόκος",
-            "ar": "جزر كوكوس (كيلينغ)",
-            "tr": "Cocos (Keeling) Adaları"
+            "ar": "جزر كوكوس (كيلينغ)"
+
+
         },
         "dial_code": "+61",
         "code": "CC",
@@ -1354,7 +1286,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Colombia",
-            "da": "Colombia",
             "ru": "Колумбия",
             "pl": "Kolumbia",
             "ua": "Колумбія",
@@ -1374,8 +1305,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "コロンビア",
             "he": "קולומביה",
             "el": "Κολομβία",
-            "ar": "كولومبيا",
-            "tr": "Kolombiya"
+            "ar": "كولومبيا"
         },
         "dial_code": "+57",
         "code": "CO",
@@ -1384,7 +1314,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Comoros",
-            "da": "Comorerne",
             "ru": "Коморские острова",
             "pl": "Komory",
             "ua": "Коморські острови",
@@ -1404,8 +1333,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "コモロ",
             "he": "קומורו",
             "el": "Κομόρες",
-            "ar": "جزر القمر",
-            "tr": "Komorlar"
+            "ar": "جزر القمر"
         },
         "dial_code": "+269",
         "code": "KM",
@@ -1414,7 +1342,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Congo",
-            "da": "Congo",
             "ru": "Конго",
             "pl": "Kongo",
             "ua": "Конго",
@@ -1434,8 +1361,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "コンゴ",
             "he": "קונגו",
             "el": "Δημοκρατία του Κονγκό",
-            "ar": "الكونغو",
-            "tr": "Kongo"
+            "ar": "الكونغو"
         },
         "dial_code": "+242",
         "code": "CG",
@@ -1444,7 +1370,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Congo, The Democratic Republic of the",
-            "da": "Congo, Den Demokratiske Republik",
             "ru": "Конго, Демократическая Республика",
             "pl": "Kongo, Republika Demokratyczna",
             "ua": "Конго, Демократична Республіка",
@@ -1464,8 +1389,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "コンゴ、コンゴ民主共和国",
             "he": "קונגו",
             "el": "Λαϊκή Δημοκρατία του Κονγκό",
-            "ar": "جمهورية الكونغو الديمقراطية",
-            "tr": "Kongo Demokratik Cumhuriyeti"
+            "ar": "جمهورية الكونغو الديمقراطية"
+
         },
         "dial_code": "+243",
         "code": "CD",
@@ -1474,7 +1399,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Cook Islands",
-            "da": "Cookøerne",
             "ru": "Острова Кука",
             "pl": "Wyspy Cooka",
             "ua": "Острови Кука",
@@ -1494,8 +1418,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "クック諸島",
             "he": "איי קוק",
             "el": "Νήσοι Κουκ",
-            "ar": "جزر كوك",
-            "tr": "Cook Adaları"
+            "ar": "جزر كوك"
+
         },
         "dial_code": "+682",
         "code": "CK",
@@ -1504,7 +1428,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Costa Rica",
-            "da": "Costa Rica",
             "ru": "Коста-Рика",
             "pl": "Kostaryka",
             "ua": "Коста-Ріка",
@@ -1524,8 +1447,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "コスタリカ",
             "he": "קוסטה ריקה",
             "el": "Κόστα Ρίκα",
-            "ar": "كوستا ريكا",
-            "tr": "Kosta Rika"
+            "ar": "كوستا ريكا"
         },
         "dial_code": "+506",
         "code": "CR",
@@ -1534,7 +1456,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Cote d'Ivoire",
-            "da": "Elfenbenskysten",
             "ru": "Кот-д'Ивуар",
             "pl": "Wybrzeże Kości Słoniowej",
             "ua": "Кот-д'Івуар",
@@ -1554,8 +1475,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "コートジボワール",
             "he": "חוף השנהב",
             "el": "Ακτή Ελεφαντοστού",
-            "ar": "ساحل العاج",
-            "tr": "Fildişi Sahili"
+            "ar": "ساحل العاج"
+
         },
         "dial_code": "+225",
         "code": "CI",
@@ -1563,8 +1484,12 @@ export const countryCodes: CountryItem[] = [
     },
     {
         "name": {
+            "sl": "Hrvaška",
+            "hr": "Hrvatska",
+            "mk": "Хрватска",
+            "sq": "Kroacia",
+            "sr": "Хрватска / Hrvatska",
             "en": "Croatia",
-            "da": "Kroatien",
             "ru": "Хорватия",
             "pl": "Chorwacja",
             "ua": "Хорватія",
@@ -1584,8 +1509,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "クロアチア",
             "he": "קרואטיה",
             "el": "Κροατία",
-            "ar": "كرواتيا",
-            "tr": "Hırvatistan"
+            "ar": "كرواتيا"
         },
         "dial_code": "+385",
         "code": "HR",
@@ -1594,7 +1518,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Cuba",
-            "da": "Cuba",
             "ru": "Куба",
             "pl": "Kuba",
             "ua": "Куба",
@@ -1614,8 +1537,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "キューバ",
             "he": "קובה",
             "el": "Κούβα",
-            "ar": "كوبا",
-            "tr": "Küba"
+            "ar": "كوبا"
         },
         "dial_code": "+53",
         "code": "CU",
@@ -1624,7 +1546,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Cyprus",
-            "da": "Cypern",
             "ru": "Кипр",
             "pl": "Cypr",
             "ua": "Кіпр",
@@ -1644,8 +1565,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "キプロス",
             "he": "קפריסין",
             "el": "Κύπρος",
-            "ar": "قبرص",
-            "tr": "Güney Kıbrıs Rum Yönetimi"
+            "ar": "قبرص"
         },
         "dial_code": "+357",
         "code": "CY",
@@ -1654,7 +1574,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Czech Republic",
-            "da": "Tjekkiet",
             "ru": "Чехия",
             "pl": "Republika Czeska",
             "ua": "Чеська Республіка",
@@ -1674,8 +1593,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "チェコ共和国",
             "he": "הרפובליקה הצ'כית",
             "el": "Τσεχία",
-            "ar": "جمهورية التشيك",
-            "tr": "Çek Cumhuriyeti"
+            "ar": "جمهورية التشيك"
         },
         "dial_code": "+420",
         "code": "CZ",
@@ -1684,7 +1602,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Denmark",
-            "da": "Danmark",
             "ru": "Дания",
             "pl": "Dania",
             "ua": "Данія",
@@ -1705,7 +1622,6 @@ export const countryCodes: CountryItem[] = [
             "he": "דנמרק",
             "el": "Δανία",
             "ar": "الدنمارك",
-            "tr": "Danimarka"
         },
         "dial_code": "+45",
         "code": "DK",
@@ -1714,7 +1630,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Djibouti",
-            "da": "Djibouti",
             "ru": "Джибути",
             "pl": "Dżibuti",
             "ua": "Джибуті",
@@ -1734,8 +1649,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "ジブチ",
             "he": "ג'יבוטי",
             "el": "Τζιμπουτί",
-            "ar": "جيبوتي",
-            "tr": "Cibuti"
+            "ar": "جيبوتي"
+
         },
         "dial_code": "+253",
         "code": "DJ",
@@ -1744,7 +1659,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Dominica",
-            "da": "Dominica",
             "ru": "Доминика",
             "pl": "Dominika",
             "ua": "Домініка",
@@ -1764,8 +1678,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ドミニカ",
             "he": "דומיניקה",
             "el": "Δομινίκα",
-            "ar": "دومينيكا",
-            "tr": "Dominika"
+            "ar": "دومينيكا"
         },
         "dial_code": "+1767",
         "code": "DM",
@@ -1774,7 +1687,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Dominican Republic",
-            "da": "Den Dominikanske Republik",
             "ru": "Доминиканская Респблика",
             "pl": "Republika Dominikany",
             "ua": "Домініканська республіка",
@@ -1794,8 +1706,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ドミニカ共和国",
             "he": "הרפובליקה הדומיניקנית",
             "el": "Δομινικανή Δημοκρατία",
-            "ar": "جمهورية الدومينيكان",
-            "tr": "Dominik Cumhuriyeti"
+            "ar": "جمهورية الدومينيكان"
         },
         "dial_code": "+1849",
         "code": "DO",
@@ -1804,7 +1715,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Ecuador",
-            "da": "Ecuador",
             "ru": "Эквадор",
             "pl": "Ekwador",
             "ua": "Еквадор",
@@ -1824,8 +1734,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "エクアドル",
             "he": "אקוודור",
             "el": "Ισημερινός",
-            "ar": "الإكوادور",
-            "tr": "Ekvador"
+            "ar": "الإكوادور"
         },
         "dial_code": "+593",
         "code": "EC",
@@ -1834,7 +1743,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Egypt",
-            "da": "Egypten",
             "ru": "Египет",
             "pl": "Egipt",
             "ua": "Єгипет",
@@ -1854,8 +1762,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "エジプト",
             "he": "מצרים",
             "el": "Αίγυπτος",
-            "ar": "مصر",
-            "tr": "Mısır"
+            "ar": "مصر"
         },
         "dial_code": "+20",
         "code": "EG",
@@ -1864,7 +1771,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "El Salvador",
-            "da": "El Salvador",
             "ru": "Сальвадор",
             "pl": "Salwador",
             "ua": "Сальвадор",
@@ -1884,8 +1790,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "エルサルバドル",
             "he": "אל סלבדור",
             "el": "Ελ Σαλβαδόρ",
-            "ar": "السلفادور",
-            "tr": "El Salvador"
+            "ar": "السلفادور"
         },
         "dial_code": "+503",
         "code": "SV",
@@ -1894,7 +1799,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Equatorial Guinea",
-            "da": "Ækvatorialguinea",
             "ru": "Экваториальная Гвинея",
             "pl": "Gwinea Równikowa",
             "ua": "Екваторіальна Гвінея",
@@ -1914,8 +1818,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "赤道ギニア",
             "he": "גיניאה המשוונית",
             "el": "Ισημερινή Γουινέα",
-            "ar": "غينيا الاستوائية",
-            "tr": "Ekvator Ginesi"
+            "ar": "غينيا الاستوائية"
         },
         "dial_code": "+240",
         "code": "GQ",
@@ -1924,7 +1827,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Eritrea",
-            "da": "Eritrea",
             "ru": "Эритрея",
             "pl": "Erytrea",
             "ua": "Еритрея",
@@ -1944,8 +1846,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "エリトリア",
             "he": "אריתריאה",
             "el": "Ερυθραία",
-            "ar": "إريتريا",
-            "tr": "Eritre"
+            "ar": "إريتريا"
         },
         "dial_code": "+291",
         "code": "ER",
@@ -1954,7 +1855,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Estonia",
-            "da": "Estland",
             "ru": "Эстония",
             "pl": "Estonia",
             "ua": "Естонія",
@@ -1974,8 +1874,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "エストニア",
             "he": "אסטוניה",
             "el": "Εσθονία",
-            "ar": "إستونيا",
-            "tr": "Estonya"
+            "ar": "إستونيا"
         },
         "dial_code": "+372",
         "code": "EE",
@@ -1984,7 +1883,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Ethiopia",
-            "da": "Etiopien",
             "ru": "Эфиопия",
             "pl": "Etiopia",
             "ua": "Ефіопія",
@@ -2004,8 +1902,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "エチオピア",
             "he": "אתיופיה",
             "el": "Αιθιοπία",
-            "ar": "إثيوبيا",
-            "tr": "Etiyopya"
+            "ar": "إثيوبيا"
         },
         "dial_code": "+251",
         "code": "ET",
@@ -2014,7 +1911,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Falkland Islands (Malvinas)",
-            "da": "Falklandsøerne (Malvinas)",
             "ru": "Фолклендские острова (Malvinas)",
             "pl": "Falklandy (Malwiny)",
             "ua": "Фолклендські острови (Мальвінські острови)",
@@ -2034,8 +1930,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "フォークランド諸島（マルビナス）",
             "he": "איי פוקלנד (מלווינאס)",
             "el": "Νήσοι Φώκλαντ",
-            "ar": "جزر فوكلاند (مالفيناس)",
-            "tr": "Falkland Adaları (Malvinas)"
+            "ar": "جزر فوكلاند (مالفيناس)"
+
+
         },
         "dial_code": "+500",
         "code": "FK",
@@ -2044,7 +1941,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Faroe Islands",
-            "da": "Færøerne",
             "ru": "Фарерские острова",
             "pl": "Wyspy Owcze",
             "ua": "Фарерські острови",
@@ -2064,8 +1960,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "フェロー諸島",
             "he": "איי פרו",
             "el": "Νήσοι Φερόες",
-            "ar": "جزر فارو",
-            "tr": "Faroe Adaları"
+            "ar": "جزر فارو"
+
         },
         "dial_code": "+298",
         "code": "FO",
@@ -2074,7 +1970,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Fiji",
-            "da": "Fiji",
             "ru": "Фиджи",
             "pl": "Fidżi",
             "ua": "Фіджі",
@@ -2094,8 +1989,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "フィジー",
             "he": "פיג'י",
             "el": "Φίτζι",
-            "ar": "فيجي",
-            "tr": "Fiji"
+            "ar": "فيجي"
         },
         "dial_code": "+679",
         "code": "FJ",
@@ -2104,7 +1998,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Finland",
-            "da": "Finland",
             "ru": "Финляндия",
             "pl": "Finlandia",
             "ua": "Фінляндія",
@@ -2124,8 +2017,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "フィンランド",
             "he": "פינלנד",
             "el": "Φινλανδία",
-            "ar": "فنلندا",
-            "tr": "Finlandiya"
+            "ar": "فنلندا"
         },
         "dial_code": "+358",
         "code": "FI",
@@ -2134,7 +2026,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "France",
-            "da": "Frankrig",
             "ru": "Франция",
             "pl": "Francja",
             "ua": "Франція",
@@ -2154,8 +2045,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "フランス",
             "he": "צרפת",
             "el": "Γαλλία",
-            "ar": "فرنسا",
-            "tr": "Fransa"
+            "ar": "فرنسا"
         },
         "dial_code": "+33",
         "code": "FR",
@@ -2164,7 +2054,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "French Guiana",
-            "da": "Fransk Guyana",
             "ru": "Французская Гвиана",
             "pl": "Gujana Francuska",
             "ua": "Французька Гвіана",
@@ -2184,8 +2073,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "フランス領ギアナ",
             "he": "גיאנה הצרפתית",
             "el": "Γαλλική Γουιάνα",
-            "ar": "غويانا الفرنسية",
-            "tr": "Fransız Guyanası"
+            "ar": "غويانا الفرنسية"
+
+
         },
         "dial_code": "+594",
         "code": "GF",
@@ -2194,7 +2084,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "French Polynesia",
-            "da": "Fransk Polynesien",
             "ru": "Французская Полинезия",
             "pl": "Polinezja Francuska",
             "ua": "Французька Полінезія",
@@ -2214,8 +2103,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "フランス領ポリネシア",
             "he": "פולינזיה הצרפתית",
             "el": "Γαλλική Πολυνησία",
-            "ar": "بولينيزيا الفرنسية",
-            "tr": "Fransız Polinezyası"
+            "ar": "بولينيزيا الفرنسية"
+
+
         },
         "dial_code": "+689",
         "code": "PF",
@@ -2224,7 +2114,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Gabon",
-            "da": "Gabon",
             "ru": "Габон",
             "pl": "Gabon",
             "ua": "Габон",
@@ -2244,8 +2133,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "ガボン",
             "he": "גאבון",
             "el": "Γκαμπόν",
-            "ar": "الغابون",
-            "tr": "Gabon"
+            "ar": "الغابون"
+
         },
         "dial_code": "+241",
         "code": "GA",
@@ -2254,7 +2143,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Gambia",
-            "da": "Gambia",
             "ru": "Гамбия",
             "pl": "Gambia",
             "ua": "Гамбія",
@@ -2274,8 +2162,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "ガンビア",
             "he": "גמביה",
             "el": "Γκάμπια",
-            "ar": "غامبيا",
-            "tr": "Gambiya"
+            "ar": "غامبيا"
+
         },
         "dial_code": "+220",
         "code": "GM",
@@ -2284,7 +2172,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Georgia",
-            "da": "Georgien",
             "ru": "Грузия",
             "pl": "Gruzja",
             "ua": "Грузія",
@@ -2304,8 +2191,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ジョージア",
             "he": "גאורגיה",
             "el": "Γεωργία",
-            "ar": "جورجيا",
-            "tr": "Gürcistan"
+            "ar": "جورجيا"
         },
         "dial_code": "+995",
         "code": "GE",
@@ -2314,7 +2200,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Germany",
-            "da": "Tyskland",
             "ru": "Германия",
             "pl": "Niemcy",
             "ua": "Німеччина",
@@ -2334,8 +2219,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ドイツ",
             "he": "גרמניה",
             "el": "Γερμανία",
-            "ar": "ألمانيا",
-            "tr": "Almanya"
+            "ar": "ألمانيا"
         },
         "dial_code": "+49",
         "code": "DE",
@@ -2344,7 +2228,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Ghana",
-            "da": "Ghana",
             "ru": "Гана",
             "pl": "Ghana",
             "ua": "Гана",
@@ -2364,8 +2247,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ガーナ",
             "he": "גאנה",
             "el": "Γκάνα",
-            "ar": "غانا",
-            "tr": "Gana"
+            "ar": "غانا"
         },
         "dial_code": "+233",
         "code": "GH",
@@ -2374,7 +2256,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Gibraltar",
-            "da": "Gibraltar",
             "ru": "Гибралтар",
             "pl": "Gibraltar",
             "ua": "Гібралтар",
@@ -2394,8 +2275,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "ジブラルタル",
             "he": "גיברלטר",
             "el": "Γιβραλτάρ",
-            "ar": "جبل طارق",
-            "tr": "Cebelitarık"
+            "ar": "جبل طارق"
+
+
         },
         "dial_code": "+350",
         "code": "GI",
@@ -2404,7 +2286,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Greece",
-            "da": "Grækenland",
             "ru": "Греция",
             "pl": "Grecja",
             "ua": "Греція",
@@ -2424,8 +2305,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "ギリシャ",
             "he": "יוון",
             "el": "Ελλάδα",
-            "ar": "اليونان",
-            "tr": "Yunanistan"
+            "ar": "اليونان"
+
+
         },
         "dial_code": "+30",
         "code": "GR",
@@ -2434,7 +2316,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Greenland",
-            "da": "Grønland",
             "ru": "Гренландия",
             "pl": "Grenlandia",
             "ua": "Гренландія",
@@ -2454,8 +2335,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "グリーンランド",
             "he": "גרינלנד",
             "el": "Γροιλανδία",
-            "ar": "جرينلاند",
-            "tr": "Grönland"
+            "ar": "جرينلاند"
+
         },
         "dial_code": "+299",
         "code": "GL",
@@ -2464,7 +2345,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Grenada",
-            "da": "Grenada",
             "ru": "Гренада",
             "pl": "Grenada",
             "ua": "Гренада",
@@ -2484,8 +2364,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "グレナダ",
             "he": "גרנדה",
             "el": "Γρενάδα",
-            "ar": "غرينادا",
-            "tr": "Grenada"
+            "ar": "غرينادا"
+
+
         },
         "dial_code": "+1473",
         "code": "GD",
@@ -2494,7 +2375,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Guadeloupe",
-            "da": "Guadeloupe",
             "ru": "Гваделупа",
             "pl": "Gwadelupa",
             "ua": "Гваделупа",
@@ -2514,8 +2394,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "グアドループ",
             "he": "גוואדלופ",
             "el": "Γουαδελούπη",
-            "ar": "غواديلوب",
-            "tr": "Guadeloupe"
+            "ar": "غواديلوب"
+
+
         },
         "dial_code": "+590",
         "code": "GP",
@@ -2524,7 +2405,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Guam",
-            "da": "Guam",
             "ru": "Гуам",
             "pl": "Guam",
             "ua": "Гуам",
@@ -2544,8 +2424,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "グアム",
             "he": "גואם",
             "el": "Γκουάμ",
-            "ar": "غوام",
-            "tr": "Guam"
+            "ar": "غوام"
+
         },
         "dial_code": "+1671",
         "code": "GU",
@@ -2554,7 +2434,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Guatemala",
-            "da": "Guatemala",
             "ru": "Гватемала",
             "pl": "Gwatemala",
             "ua": "Гватемала",
@@ -2574,8 +2453,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "グアテマラ",
             "he": "גואטמלה",
             "el": "Γουατεμάλα",
-            "ar": "غواتيمالا",
-            "tr": "Guatemala"
+            "ar": "غواتيمالا"
         },
         "dial_code": "+502",
         "code": "GT",
@@ -2584,7 +2462,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Guernsey",
-            "da": "Guernsey",
             "ru": "Гернси",
             "pl": "Guernsey",
             "ua": "Гернсі",
@@ -2604,8 +2481,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "ガーンジー",
             "he": "גרנזי",
             "el": "Γκέρνσεϊ",
-            "ar": "غيرنزي",
-            "tr": "Guernsey"
+            "ar": "غيرنزي"
+
+
         },
         "dial_code": "+44",
         "code": "GG",
@@ -2614,7 +2492,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Guinea",
-            "da": "Guinea",
             "ru": "Гвинея",
             "pl": "Gwinea",
             "ua": "Гвінея",
@@ -2634,8 +2511,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "ギニア",
             "he": "גינאה",
             "el": "Γουινέα",
-            "ar": "غينيا",
-            "tr": "Gine"
+            "ar": "غينيا"
+
         },
         "dial_code": "+224",
         "code": "GN",
@@ -2644,7 +2521,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Guinea-Bissau",
-            "da": "Guinea-Bissau",
             "ru": "Гвинея-Бисау",
             "pl": "Gwinea Bissau",
             "ua": "Гвінея-Бісау",
@@ -2664,8 +2540,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ギニアビサウ",
             "he": "גינאה-ביסאו",
             "el": "Γουινέα-Μπισσάου",
-            "ar": "غينيا بيساو",
-            "tr": "Gine-Bissau"
+            "ar": "غينيا بيساو"
         },
         "dial_code": "+245",
         "code": "GW",
@@ -2674,7 +2549,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Guyana",
-            "da": "Guyana",
             "ru": "Гайана",
             "pl": "Gujana",
             "ua": "Гайана",
@@ -2695,7 +2569,7 @@ export const countryCodes: CountryItem[] = [
             "he": "גיאנה",
             "el": "Γουιάνα",
             "ar": "غويانا",
-            "tr": "Guyana"
+
         },
         "dial_code": "+595",
         "code": "GY",
@@ -2704,7 +2578,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Haiti",
-            "da": "Haiti",
             "ru": "Гаити",
             "pl": "Haiti",
             "ua": "Гаїті",
@@ -2724,8 +2597,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ハイチ",
             "he": "האיטי",
             "el": "Αϊτή",
-            "ar": "هايتي",
-            "tr": "Haiti"
+            "ar": "هايتي"
         },
         "dial_code": "+509",
         "code": "HT",
@@ -2734,7 +2606,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Holy See (Vatican City State)",
-            "da": "Den Hellige Stol (Vatikanstaten)",
             "ru": "Святой Престол (Vatican City State)",
             "pl": "Stolica Apostolska (Państwo Watykańskie)",
             "ua": "Святий Престол (Ватикан)",
@@ -2754,8 +2625,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "ホーリーシー（バチカン市国）",
             "he": "הכס הקדוש (מדינת הוותיקן)",
             "el": "Βατικανό",
-            "ar": "الكرسي الرسولي (دولة الفاتيكان)",
-            "tr": "Vatikan"
+            "ar": "الكرسي الرسولي (دولة الفاتيكان)"
+
+
         },
         "dial_code": "+379",
         "code": "VA",
@@ -2764,7 +2636,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Honduras",
-            "da": "Honduras",
             "ru": "Гондурас",
             "pl": "Honduras",
             "ua": "Гондурас",
@@ -2784,8 +2655,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ホンジュラス",
             "he": "הונדורס",
             "el": "Ονδούρα",
-            "ar": "هندوراس",
-            "tr": "Honduras"
+            "ar": "هندوراس"
         },
         "dial_code": "+504",
         "code": "HN",
@@ -2794,7 +2664,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Hong Kong",
-            "da": "Hong Kong",
             "ru": "Гонконг",
             "pl": "Hongkong",
             "ua": "Гонконг",
@@ -2814,8 +2683,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "香港",
             "he": "הונג קונג",
             "el": "Χονγκ Κονγκ",
-            "ar": "هونغ كونغ",
-            "tr": "Hong Kong"
+            "ar": "هونغ كونغ"
+
+
         },
         "dial_code": "+852",
         "code": "HK",
@@ -2824,7 +2694,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Hungary",
-            "da": "Ungarn",
             "ru": "Венгрия",
             "pl": "Węgry",
             "ua": "Угорщина",
@@ -2844,8 +2713,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ハンガリー",
             "he": "הונגריה",
             "el": "Ουγγαρία",
-            "ar": "المجر",
-            "tr": "Macaristan"
+            "ar": "المجر"
         },
         "dial_code": "+36",
         "code": "HU",
@@ -2854,7 +2722,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Iceland",
-            "da": "Island",
             "ru": "Исландия",
             "pl": "Islandia",
             "ua": "Ісландія",
@@ -2874,8 +2741,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "アイスランド",
             "he": "איסלנד",
             "el": "Ισλανδία",
-            "ar": "آيسلندا",
-            "tr": "İzlanda"
+            "ar": "آيسلندا"
         },
         "dial_code": "+354",
         "code": "IS",
@@ -2884,7 +2750,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "India",
-            "da": "Indien",
             "ru": "Индия",
             "pl": "Indie",
             "ua": "Індія",
@@ -2904,8 +2769,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "インド",
             "he": "הוֹדוּ",
             "el": "Ινδία",
-            "ar": "الهند",
-            "tr": "Hindistan"
+            "ar": "الهند"
         },
         "dial_code": "+91",
         "code": "IN",
@@ -2914,7 +2778,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Indonesia",
-            "da": "Indonesien",
             "ru": "Индонезия",
             "pl": "Indonezja",
             "ua": "Індонезія",
@@ -2934,8 +2797,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "インドネシア",
             "he": "אינדונזיה",
             "el": "Ινδονησία",
-            "ar": "إندونيسيا",
-            "tr": "Endonezya"
+            "ar": "إندونيسيا"
         },
         "dial_code": "+62",
         "code": "ID",
@@ -2944,7 +2806,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Iran, Islamic Republic of",
-            "da": "Iran, Den Islamiske Republik",
             "ru": "Иран, Исламская Республика",
             "pl": "Iran, Republika Islamska",
             "ua": "Іран, Ісламська Республіка",
@@ -2964,8 +2825,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "イラン、イスラム共和国",
             "he": "איראן",
             "el": "Ιράν",
-            "ar": "إيران",
-            "tr": "İran"
+            "ar": "إيران"
         },
         "dial_code": "+98",
         "code": "IR",
@@ -2974,7 +2834,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Iraq",
-            "da": "Irak",
             "ru": "Ирак",
             "pl": "Irak",
             "ua": "Ірак",
@@ -2994,8 +2853,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "イラク",
             "he": "עיראק",
             "el": "Ιράκ",
-            "ar": "العراق",
-            "tr": "Irak"
+            "ar": "العراق"
         },
         "dial_code": "+964",
         "code": "IQ",
@@ -3004,7 +2862,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Ireland",
-            "da": "Irland",
             "ru": "Ирландия",
             "pl": "Irlandia",
             "ua": "Ірландія",
@@ -3024,8 +2881,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "アイルランド",
             "he": "אירלנד",
             "el": "Ιρλανδία",
-            "ar": "أيرلندا",
-            "tr": "İrlanda"
+            "ar": "أيرلندا"
         },
         "dial_code": "+353",
         "code": "IE",
@@ -3034,7 +2890,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Isle of Man",
-            "da": "Isle of Man",
             "ru": "Остров Мэн",
             "pl": "Wyspa Man",
             "ua": "Острів Мен",
@@ -3054,8 +2909,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "マン島",
             "he": "האי מאן",
             "el": "Νήσος Μαν",
-            "ar": "جزيرة مان",
-            "tr": "Man Adası"
+            "ar": "جزيرة مان"
+
+
         },
         "dial_code": "+44",
         "code": "IM",
@@ -3064,7 +2920,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Israel",
-            "da": "Israel",
             "ru": "Израиль",
             "pl": "Izrael",
             "ua": "Ізраїль",
@@ -3084,8 +2939,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "イスラエル",
             "he": "ישראל",
             "el": "Ισραήλ",
-            "ar": "إسرائيل",
-            "tr": "İsrail"
+            "ar": "إسرائيل"
+
+
         },
         "dial_code": "+972",
         "code": "IL",
@@ -3094,7 +2950,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Italy",
-            "da": "Italien",
             "ru": "Италия",
             "pl": "Włochy",
             "ua": "Італія",
@@ -3114,8 +2969,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "イタリア",
             "he": "איטליה",
             "el": "Ιταλία",
-            "ar": "إيطاليا",
-            "tr": "İtalya"
+            "ar": "إيطاليا"
         },
         "dial_code": "+39",
         "code": "IT",
@@ -3124,7 +2978,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Jamaica",
-            "da": "Jamaica",
             "ru": "Ямайка",
             "pl": "Jamajka",
             "ua": "Ямайка",
@@ -3144,8 +2997,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ジャマイカ",
             "he": "ג'מייקה",
             "el": "Τζαμάικα",
-            "ar": "جامايكا",
-            "tr": "Jamaika"
+            "ar": "جامايكا"
         },
         "dial_code": "+1876",
         "code": "JM",
@@ -3154,7 +3006,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Japan",
-            "da": "Japan",
             "ru": "Япония",
             "pl": "Japonia",
             "ua": "Японія",
@@ -3174,8 +3025,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "日本",
             "he": "יפן",
             "el": "Ιαπωνία",
-            "ar": "اليابان",
-            "tr": "Japonya"
+            "ar": "اليابان"
         },
         "dial_code": "+81",
         "code": "JP",
@@ -3184,7 +3034,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Jersey",
-            "da": "Jersey",
             "ru": "Джерси",
             "pl": "Jersey",
             "ua": "Джерсі",
@@ -3204,8 +3053,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "ジャージー",
             "he": "ג'רזי",
             "el": "Τζέρσεϊ",
-            "ar": "جيرسي",
-            "tr": "Jersey"
+            "ar": "جيرسي"
+
+
         },
         "dial_code": "+44",
         "code": "JE",
@@ -3214,7 +3064,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Jordan",
-            "da": "Jordan",
             "ru": "Иордания",
             "pl": "Jordania",
             "ua": "Йорданія",
@@ -3234,8 +3083,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ヨルダン",
             "he": "ירדן",
             "el": "Ιορδανία",
-            "ar": "الأردن",
-            "tr": "Ürdün"
+            "ar": "الأردن"
         },
         "dial_code": "+962",
         "code": "JO",
@@ -3244,7 +3092,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Kazakhstan",
-            "da": "Kazakhstan",
             "ru": "Казахстан",
             "pl": "Kazachstan",
             "ua": "Казахстан",
@@ -3264,8 +3111,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "カザフスタン",
             "he": "קזחסטן",
             "el": "Καζακστάν",
-            "ar": "كازاخستان",
-            "tr": "Kazakistan"
+            "ar": "كازاخستان"
         },
         "dial_code": "+77",
         "code": "KZ",
@@ -3274,7 +3120,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Kenya",
-            "da": "Kenya",
             "ru": "Кения",
             "pl": "Kenia",
             "ua": "Кенія",
@@ -3294,8 +3139,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ケニア",
             "he": "קניה",
             "el": "Κένυα",
-            "ar": "كينيا",
-            "tr": "Kenya"
+            "ar": "كينيا"
         },
         "dial_code": "+254",
         "code": "KE",
@@ -3304,7 +3148,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Kiribati",
-            "da": "Kiribati",
             "ru": "Кирибати",
             "pl": "Kiribati",
             "ua": "Kiribati",
@@ -3324,8 +3167,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "キリバス",
             "he": "קיריבטי",
             "el": "Κιριμπάτι",
-            "ar": "كيريباتي",
-            "tr": "Kiribati"
+            "ar": "كيريباتي"
         },
         "dial_code": "+686",
         "code": "KI",
@@ -3334,7 +3176,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Korea, Democratic People's Republic of",
-            "da": "Korea, Den Demokratiske Folkerepublik",
             "ru": "Корея, Народно-Демократическая Республика",
             "pl": "Korea, Republika Ludowo-Demokratyczna",
             "ua": "Корея, Народно-Демократична Республіка",
@@ -3354,8 +3195,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "韓国、朝鮮民主主義人民共和国",
             "he": "קוריאה הצפונית",
             "el": "Βόρεια Κορέα",
-            "ar": "كوريا الشمالية",
-            "tr": "Kore, Demokratik Halk Cumhuriyeti"
+            "ar": "كوريا الشمالية"
+
         },
         "dial_code": "+850",
         "code": "KP",
@@ -3364,7 +3205,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Korea, Republic of",
-            "da": "Korea, Republikken",
             "ru": "Республика Корея",
             "pl": "Republika Korei",
             "ua": "Корея, Республіка",
@@ -3384,8 +3224,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "大韓民国",
             "he": "קוריאה הדרומית",
             "el": "Νότια Κορέα",
-            "ar": "كوريا الجنوبية",
-            "tr": "Kore Cumhuriyeti"
+            "ar": "كوريا الجنوبية"
         },
         "dial_code": "+82",
         "code": "KR",
@@ -3394,7 +3233,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Kuwait",
-            "da": "Kuwait",
             "ru": "Кувейт",
             "pl": "Kuwejt",
             "ua": "Кувейт",
@@ -3414,8 +3252,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "クウェート",
             "he": "כווית",
             "el": "Κουβέιτ",
-            "ar": "الكويت",
-            "tr": "Kuveyt"
+            "ar": "الكويت"
         },
         "dial_code": "+965",
         "code": "KW",
@@ -3424,7 +3261,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Kyrgyzstan",
-            "da": "Kyrgyzstan",
             "ru": "Kyrgyzstan",
             "pl": "Kirgistan",
             "ua": "Киргизстан",
@@ -3444,8 +3280,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "キルギスタン",
             "he": "קירגיזסטן",
             "el": "Κιργιζία",
-            "ar": "قرغيزستان",
-            "tr": "Kırgızistan"
+            "ar": "قرغيزستان"
         },
         "dial_code": "+996",
         "code": "KG",
@@ -3454,7 +3289,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Lao People's Democratic Republic",
-            "da": "Den Demokratiske Folkerepublik Laos",
             "ru": "Лаосская Народно-Демократическая Республика",
             "pl": "Laotańska Republika Ludowo-Demokratyczna",
             "ua": "Лаоська Народно-Демократична Республіка",
@@ -3474,8 +3308,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "ラオス人民民主共和国",
             "he": "הרפובליקה הדמוקרטית העממית של לאו",
             "el": "Λάος",
-            "ar": "جمهورية لاو الديمقراطية الشعبية",
-            "tr": "Laos Demokratik Halk Cumhuriyeti"
+            "ar": "جمهورية لاو الديمقراطية الشعبية"
+
         },
         "dial_code": "+856",
         "code": "LA",
@@ -3484,7 +3318,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Latvia",
-            "da": "Letland",
             "ru": "Латвия",
             "pl": "Łotwa",
             "ua": "Латвія",
@@ -3504,8 +3337,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ラトビア",
             "he": "לטביה",
             "el": "Λετονία",
-            "ar": "لاتفيا",
-            "tr": "Letonya"
+            "ar": "لاتفيا"
         },
         "dial_code": "+371",
         "code": "LV",
@@ -3514,7 +3346,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Lebanon",
-            "da": "Libanon",
             "ru": "Ливан",
             "pl": "Liban",
             "ua": "Ліван",
@@ -3534,8 +3365,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "レバノン",
             "he": "לבנון",
             "el": "Λίβανος",
-            "ar": "لبنان",
-            "tr": "Lübnan"
+            "ar": "لبنان"
         },
         "dial_code": "+961",
         "code": "LB",
@@ -3544,7 +3374,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Lesotho",
-            "da": "Lesotho",
             "ru": "Лесото",
             "pl": "Lesoto",
             "ua": "Лесото",
@@ -3564,8 +3393,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "レソト",
             "he": "לסוטו",
             "el": "Λεσότο",
-            "ar": "ليسوتو",
-            "tr": "Lesotho"
+            "ar": "ليسوتو"
         },
         "dial_code": "+266",
         "code": "LS",
@@ -3574,7 +3402,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Liberia",
-            "da": "Liberia",
             "ru": "Либерия",
             "pl": "Liberia",
             "ua": "Ліберія",
@@ -3594,8 +3421,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "リベリア",
             "he": "ליבריה",
             "el": "Λιβερία",
-            "ar": "ليبيريا",
-            "tr": "Liberya"
+            "ar": "ليبيريا"
         },
         "dial_code": "+231",
         "code": "LR",
@@ -3604,7 +3430,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Libyan Arab Jamahiriya",
-            "da": "Libysk Arabisk Jamahiriya",
             "ru": "Ливийская Арабская Джамахирия",
             "pl": "Libijska Arabska Dżamahirija",
             "ua": "Лівійська Арабська Джамахірія",
@@ -3624,8 +3449,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "リビアアラブジャマヒリヤ",
             "he": "ג'מהיריה הערבית הלובית",
             "el": "Λιβύη",
-            "ar": "ليبيا",
-            "tr": "Libya Arap Cemahiriyesi"
+            "ar": "ليبيا"
         },
         "dial_code": "+218",
         "code": "LY",
@@ -3634,7 +3458,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Liechtenstein",
-            "da": "Liechtenstein",
             "ru": "Лихтенштейн",
             "pl": "Liechtenstein",
             "ua": "Ліхтенштейн",
@@ -3654,8 +3477,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "リヒテンシュタイン",
             "he": "ליכטנשטיין",
             "el": "Λίχτενσταϊν",
-            "ar": "ليختنشتاين",
-            "tr": "Lihtenştayn"
+            "ar": "ليختنشتاين"
+
         },
         "dial_code": "+423",
         "code": "LI",
@@ -3664,7 +3487,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Lithuania",
-            "da": "Litauen",
             "ru": "Литва",
             "pl": "Litwa",
             "ua": "Литва",
@@ -3684,8 +3506,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "リトアニア",
             "he": "ליטא",
             "el": "Λιθουανία",
-            "ar": "ليتوانيا",
-            "tr": "Litvanya"
+            "ar": "ليتوانيا"
         },
         "dial_code": "+370",
         "code": "LT",
@@ -3694,7 +3515,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Luxembourg",
-            "da": "Luxembourg",
             "ru": "Люксембург",
             "pl": "Luksemburg",
             "ua": "Люксембург",
@@ -3714,8 +3534,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ルクセンブルク",
             "he": "לוקסמבורג",
             "el": "Λουξεμβούργο",
-            "ar": "لوكسمبورغ",
-            "tr": "Lüksemburg"
+            "ar": "لوكسمبورغ"
         },
         "dial_code": "+352",
         "code": "LU",
@@ -3724,7 +3543,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Macao",
-            "da": "Macao",
             "ru": "Макао",
             "pl": "Makao",
             "ua": "Макао",
@@ -3744,8 +3562,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "マカオ",
             "he": "מקאו",
             "el": "Μακάου",
-            "ar": "ماكاو",
-            "tr": "Makao"
+            "ar": "ماكاو"
+
+
         },
         "dial_code": "+853",
         "code": "MO",
@@ -3753,8 +3572,12 @@ export const countryCodes: CountryItem[] = [
     },
     {
         "name": {
-            "en": "Macedonia, The Former Yugoslav Republic of",
-            "da": "Makedonien, Den Tidligere Jugoslaviske Republik",
+            "sl": "Severna Makedonija",
+            "hr": "Sjeverna Makedonija",
+            "mk": "Северна Македонија",
+            "sq": "Maqedonia e Veriut",
+            "sr": "Северна Македонија / Severna Makedonija",
+            "en": "North Macedonia",
             "ru": "Македония, Бывшая Югославская Республика",
             "pl": "Macedonia, Była Jugosłowiańska Republika",
             "ua": "Македонія, колишня югославська республіка",
@@ -3774,8 +3597,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "マケドニア、旧ユーゴスラビア共和国",
             "he": "מקדוניה",
             "el": "Βόρεια Μακεδονία",
-            "ar": "مقدونيا، جمهورية يوغوسلافيا السابقة",
-            "tr": "Makedonya, Eski Yugoslav Cumhuriyeti"
+            "ar": "مقدونيا، جمهورية يوغوسلافيا السابقة"
+
+
         },
         "dial_code": "+389",
         "code": "MK",
@@ -3784,7 +3608,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Madagascar",
-            "da": "Madagaskar",
             "ru": "Мадагаскар",
             "pl": "Madagaskar",
             "ua": "Мадагаскар",
@@ -3804,8 +3627,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "マダガスカル",
             "he": "מדגסקר",
             "el": "Μαδαγασκάρη",
-            "ar": "مدغشقر",
-            "tr": "Madagaskar"
+            "ar": "مدغشقر"
+
         },
         "dial_code": "+261",
         "code": "MG",
@@ -3814,7 +3637,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Malawi",
-            "da": "Malawi",
             "ru": "Малави",
             "pl": "Malawi",
             "ua": "Малаві",
@@ -3834,8 +3656,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "マラウイ",
             "he": "מלאווי",
             "el": "Μαλάουι",
-            "ar": "مالاوي",
-            "tr": "Malavi"
+            "ar": "مالاوي"
         },
         "dial_code": "+265",
         "code": "MW",
@@ -3844,7 +3665,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Malaysia",
-            "da": "Malaysia",
             "ru": "Малайзия",
             "pl": "Malezja",
             "ua": "Малайзія",
@@ -3864,8 +3684,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "マレーシア",
             "he": "מלזיה",
             "el": "Μαλαισία",
-            "ar": "ماليزيا",
-            "tr": "Malezya"
+            "ar": "ماليزيا"
         },
         "dial_code": "+60",
         "code": "MY",
@@ -3874,7 +3693,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Maldives",
-            "da": "Maldiverne",
             "ru": "Мальдивы",
             "pl": "Malediwy",
             "ua": "Мальдіви",
@@ -3894,8 +3712,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "モルディブ",
             "he": "המלדיביים",
             "el": "Μαλδίβες",
-            "ar": "جزر المالديف",
-            "tr": "Maldivler"
+            "ar": "جزر المالديف"
         },
         "dial_code": "+960",
         "code": "MV",
@@ -3904,7 +3721,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Mali",
-            "da": "Mali",
             "ru": "Мали",
             "pl": "Mali",
             "ua": "Малі",
@@ -3924,8 +3740,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "マリ",
             "he": "מלי",
             "el": "Μάλι",
-            "ar": "مالي",
-            "tr": "Mali"
+            "ar": "مالي"
         },
         "dial_code": "+223",
         "code": "ML",
@@ -3934,7 +3749,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Malta",
-            "da": "Malta",
             "ru": "Мальта",
             "pl": "Malta",
             "ua": "Мальта",
@@ -3954,8 +3768,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "マルタ",
             "he": "מלטה",
             "el": "Μάλτα",
-            "ar": "مالطا",
-            "tr": "Malta"
+            "ar": "مالطا"
         },
         "dial_code": "+356",
         "code": "MT",
@@ -3964,7 +3777,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Marshall Islands",
-            "da": "Marshalløerne",
             "ru": "Маршалловы острова",
             "pl": "Wyspy Marshalla",
             "ua": "Маршаллові острови",
@@ -3984,8 +3796,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "マーシャル諸島",
             "he": "איי מרשל",
             "el": "Νήσοι Μάρσαλ",
-            "ar": "جزر مارشال",
-            "tr": "Marshall Adaları"
+            "ar": "جزر مارشال"
         },
         "dial_code": "+692",
         "code": "MH",
@@ -3994,7 +3805,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Martinique",
-            "da": "Martinique",
             "ru": "Мартиника",
             "pl": "Martynika",
             "ua": "Мартініка",
@@ -4014,8 +3824,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "マルティニーク",
             "he": "מרטיניק",
             "el": "Μαρτινίκα",
-            "ar": "موريشيوس",
-            "tr": "Martinik"
+            "ar": "موريشيوس"
         },
         "dial_code": "+596",
         "code": "MQ",
@@ -4024,7 +3833,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Mauritania",
-            "da": "Mauretanien",
             "ru": "Мавритания",
             "pl": "Mauretania",
             "ua": "Мавританія",
@@ -4044,8 +3852,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "モーリタニア",
             "he": "מאוריטניה",
             "el": "Μαυριτανία",
-            "ar": "موريتانيا",
-            "tr": "Moritanya"
+            "ar": "موريتانيا"
+
         },
         "dial_code": "+222",
         "code": "MR",
@@ -4054,7 +3862,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Mauritius",
-            "da": "Mauritius",
             "ru": "Маврикий",
             "pl": "Mauritius",
             "ua": "Маврикій",
@@ -4074,8 +3881,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "モーリシャス",
             "he": "מאוריציוס",
             "el": "Μαυρίκιος",
-            "ar": "موريشيوس",
-            "tr": "Mauritius"
+            "ar": "موريشيوس"
+
+
         },
         "dial_code": "+230",
         "code": "MU",
@@ -4084,7 +3892,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Mayotte",
-            "da": "Mayotte",
             "ru": "Майотта",
             "pl": "Majotta",
             "ua": "Майотта",
@@ -4104,8 +3911,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "マヨット",
             "he": "מיוט",
             "el": "Μαγιότ",
-            "ar": "مايكرونيزيا",
-            "tr": "Mayotte"
+            "ar": "مايكرونيزيا"
         },
         "dial_code": "+262",
         "code": "YT",
@@ -4114,7 +3920,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Mexico",
-            "da": "Mexico",
             "ru": "Мексика",
             "pl": "Meksyk",
             "ua": "Мексика",
@@ -4134,8 +3939,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "メキシコ",
             "he": "מקסיקו",
             "el": "Μεξικό",
-            "ar": "المكسيك",
-            "tr": "Meksika"
+            "ar": "المكسيك"
+
+
         },
         "dial_code": "+52",
         "code": "MX",
@@ -4144,7 +3950,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Micronesia, Federated States of",
-            "da": "Mikronesien, De Forenede Stater",
             "ru": "Микронезия, Федеративные Штаты",
             "pl": "Mikronezja, Sfederowane Stany",
             "ua": "Мікронезія, Федеративні Штати",
@@ -4164,8 +3969,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "ミクロネシア連邦",
             "he": "מיקרונזיה",
             "el": "Μικρονησία",
-            "ar": "ميكرونيزيا، ولايات الميكرونيزيا المتحدة",
-            "tr": "Mikronezya Federal Devletleri"
+            "ar": "ميكرونيزيا، ولايات الميكرونيزيا المتحدة"
+
+
         },
         "dial_code": "+691",
         "code": "FM",
@@ -4174,7 +3980,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Moldova, Republic of",
-            "da": "Moldova, Republikken",
             "ru": "Молдова, Республика",
             "pl": "Mołdawia, Republika",
             "ua": "Молдова, республіка",
@@ -4194,8 +3999,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "モルドバ共和国",
             "he": "מולדובה",
             "el": "Μολδαβία",
-            "ar": "مولدوفا",
-            "tr": "Moldova Cumhuriyeti"
+            "ar": "مولدوفا"
         },
         "dial_code": "+373",
         "code": "MD",
@@ -4204,7 +4008,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Monaco",
-            "da": "Monaco",
             "ru": "Монако",
             "pl": "Monako",
             "ua": "Монако",
@@ -4224,8 +4027,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "モナコ",
             "he": "מונקו",
             "el": "Μονακό",
-            "ar": "موناكو",
-            "tr": "Monako"
+            "ar": "موناكو"
+
         },
         "dial_code": "+377",
         "code": "MC",
@@ -4234,7 +4037,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Mongolia",
-            "da": "Mongoliet",
             "ru": "Монголия",
             "pl": "Mongolia",
             "ua": "Монголія",
@@ -4254,8 +4056,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "モンゴル",
             "he": "מונגוליה",
             "el": "Μογγολία",
-            "ar": "منغوليا",
-            "tr": "Moğolistan"
+            "ar": "منغوليا"
+
+
         },
         "dial_code": "+976",
         "code": "MN",
@@ -4263,8 +4066,12 @@ export const countryCodes: CountryItem[] = [
     },
     {
         "name": {
+            "sl": "Črna Gora",
+            "hr": "Crna Gora",
+            "mk": "Црна Гора",
+            "sq": "Mali i Zi",
+            "sr": "Црна Гораc / Crna Gora",
             "en": "Montenegro",
-            "da": "Montenegro",
             "ru": "Черногория",
             "pl": "Czarnogóra",
             "ua": "Чорногорія",
@@ -4284,8 +4091,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "モンテネグロ",
             "he": "מונטנגרו",
             "el": "Μαυροβούνιο",
-            "ar": "الجبل الأسود",
-            "tr": "Karadağ"
+            "ar": "الجبل الأسود"
+
+
         },
         "dial_code": "+382",
         "code": "ME",
@@ -4294,7 +4102,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Montserrat",
-            "da": "Montserrat",
             "ru": "Монтсеррат",
             "pl": "Montserrat",
             "ua": "Монтсеррат",
@@ -4314,8 +4121,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "モントセラト",
             "he": "מונטסראט",
             "el": "Μοντσερά",
-            "ar": "مونتسيرات",
-            "tr": "Montserrat"
+            "ar": "مونتسيرات"
         },
         "dial_code": "+1664",
         "code": "MS",
@@ -4324,7 +4130,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Morocco",
-            "da": "Marokko",
             "ru": "Марокко",
             "pl": "Maroko",
             "ua": "Марокко",
@@ -4344,8 +4149,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "モロッコ",
             "he": "מרוקו",
             "el": "Μαρόκο",
-            "ar": "المغرب",
-            "tr": "Fas"
+            "ar": "المغرب"
         },
         "dial_code": "+212",
         "code": "MA",
@@ -4354,7 +4158,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Mozambique",
-            "da": "Mozambique",
             "ru": "Мозамбик",
             "pl": "Mozambik",
             "ua": "Мозамбік",
@@ -4374,8 +4177,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "モザンビーク",
             "he": "מוזמביק",
             "el": "Μοζαμβίκη",
-            "ar": "موزمبيق",
-            "tr": "Mozambik"
+            "ar": "موزمبيق"
+
         },
         "dial_code": "+258",
         "code": "MZ",
@@ -4384,7 +4187,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Myanmar",
-            "da": "Myanmar",
             "ru": "Мьянма",
             "pl": "Myanmar",
             "ua": "М'янма",
@@ -4404,8 +4206,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ミャンマー",
             "he": "מיאנמר",
             "el": "Μιανμάρ",
-            "ar": "ميانمار",
-            "tr": "Myanmar"
+            "ar": "ميانمار"
         },
         "dial_code": "+95",
         "code": "MM",
@@ -4414,7 +4215,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Namibia",
-            "da": "Namibia",
             "ru": "Намибия",
             "pl": "Namibia",
             "ua": "Намібія",
@@ -4434,8 +4234,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ナミビア",
             "he": "נמיביה",
             "el": "Ναμίμπια",
-            "ar": "ناميبيا",
-            "tr": "Namibya"
+            "ar": "ناميبيا"
         },
         "dial_code": "+264",
         "code": "NA",
@@ -4444,7 +4243,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Nauru",
-            "da": "Nauru",
             "ru": "Науру",
             "pl": "Nauru",
             "ua": "Науру",
@@ -4464,8 +4262,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ナウル",
             "he": "נאורו",
             "el": "Ναουρού",
-            "ar": "ناورو",
-            "tr": "Nauru"
+            "ar": "ناورو"
         },
         "dial_code": "+674",
         "code": "NR",
@@ -4474,7 +4271,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Nepal",
-            "da": "Nepal",
             "ru": "Непал",
             "pl": "Nepal",
             "ua": "Непал",
@@ -4494,8 +4290,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ネパール",
             "he": "נפאל",
             "el": "Νεπάλ",
-            "ar": "نيبال",
-            "tr": "Nepal"
+            "ar": "نيبال"
         },
         "dial_code": "+977",
         "code": "NP",
@@ -4504,7 +4299,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Netherlands",
-            "da": "Holland",
             "ru": "Нидерланды",
             "pl": "Holandia",
             "ua": "Нідерланди",
@@ -4524,8 +4318,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "オランダ",
             "he": "הולנד",
             "el": "Ολλανδία",
-            "ar": "هولندا",
-            "tr": "Hollanda"
+            "ar": "هولندا"
         },
         "dial_code": "+31",
         "code": "NL",
@@ -4534,7 +4327,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Netherlands Antilles",
-            "da": "Hollandske Antiller",
             "ru": "Нидерландские Антильские острова",
             "pl": "Antyle Holenderskie",
             "ua": "Нідерландські Антильські острови",
@@ -4554,17 +4346,17 @@ export const countryCodes: CountryItem[] = [
             "jp": "オランダ領アンティル",
             "he": "האנטילים ההולנדיים",
             "el": "Ολλανδικές Αντίλλες",
-            "ar": "جزر الأنتيل الهولندية",
-            "tr": "Hollanda Antilleri"
+            "ar": "جزر الأنتيل الهولندية"
+
+
         },
         "dial_code": "+599",
         "code": "AN",
-        "flag": "🇧🇶"
+        "flag": "🇦🇳"
     },
     {
         "name": {
             "en": "New Caledonia",
-            "da": "Ny Kaledonien",
             "ru": "Новая Каледония",
             "pl": "Nowa Kaledonia",
             "ua": "Нова Каледонія",
@@ -4584,8 +4376,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "ニューカレドニア",
             "he": "קלדוניה החדשה",
             "el": "Νέα Καληδονία",
-            "ar": "كاليدونيا الجديدة",
-            "tr": "Yeni Kaledonya"
+            "ar": "كاليدونيا الجديدة"
+
+
         },
         "dial_code": "+687",
         "code": "NC",
@@ -4594,7 +4387,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "New Zealand",
-            "da": "New Zealand",
             "ru": "Новая Зеландия",
             "pl": "Nowa Zelandia",
             "ua": "Нова Зеландія",
@@ -4614,8 +4406,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "ニュージーランド",
             "he": "ניו זילנד",
             "el": "Νέα Ζηλανδία",
-            "ar": "نيوزيلندا",
-            "tr": "Yeni Zelanda"
+            "ar": "نيوزيلندا"
+
         },
         "dial_code": "+64",
         "code": "NZ",
@@ -4624,7 +4416,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Nicaragua",
-            "da": "Nicaragua",
             "ru": "Никарагуа",
             "pl": "Nikaragua",
             "ua": "Нікарагуа",
@@ -4644,8 +4435,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ニカラグア",
             "he": "ניקרגואה",
             "el": "Νικαράγουα",
-            "ar": "نيكاراجوا",
-            "tr": "Nikaragua"
+            "ar": "نيكاراجوا"
         },
         "dial_code": "+505",
         "code": "NI",
@@ -4654,7 +4444,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Niger",
-            "da": "Niger",
             "ru": "Нигер",
             "pl": "Niger",
             "ua": "Нігер",
@@ -4674,8 +4463,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "ニジェール",
             "he": "ניז'ר",
             "el": "Νίγηρας",
-            "ar": "النيجر",
-            "tr": "Nijer"
+            "ar": "النيجر"
+
         },
         "dial_code": "+227",
         "code": "NE",
@@ -4684,7 +4473,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Nigeria",
-            "da": "Nigeria",
             "ru": "Нигерия",
             "pl": "Nigeria",
             "ua": "Нігерія",
@@ -4704,8 +4492,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ナイジェリア",
             "he": "ניגריה",
             "el": "Νιγηρία",
-            "ar": "نيجيريا",
-            "tr": "Nijerya"
+            "ar": "نيجيريا"
         },
         "dial_code": "+234",
         "code": "NG",
@@ -4714,7 +4501,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Niue",
-            "da": "Niue",
             "ru": "Ниуэ",
             "pl": "Niue",
             "ua": "Ніуе",
@@ -4734,8 +4520,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "ニウエ",
             "he": "ניואה",
             "el": "Νιούε",
-            "ar": "نيوي",
-            "tr": "Niue"
+            "ar": "نيوي"
+
+
         },
         "dial_code": "+683",
         "code": "NU",
@@ -4744,7 +4531,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Norfolk Island",
-            "da": "Norfolk-øen",
             "ru": "Остров Норфолк",
             "pl": "Wyspa Norfolk",
             "ua": "Острів Норфолк",
@@ -4764,8 +4550,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "ノーフォーク島",
             "he": "האי נורפוק",
             "el": "Νησί Νόρφολκ",
-            "ar": "جزيرة نورفولك",
-            "tr": "Norfolk Adası"
+            "ar": "جزيرة نورفولك"
+
         },
         "dial_code": "+672",
         "code": "NF",
@@ -4774,7 +4560,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Northern Mariana Islands",
-            "da": "Nordmarianerne",
             "ru": "Северные Марианские острова",
             "pl": "Mariany Północne",
             "ua": "Північні Маріанські острови",
@@ -4794,8 +4579,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "北マリアナ諸島",
             "he": "איי מריאנה הצפוניים",
             "el": "Βόρειες Μαριάνες Νήσοι",
-            "ar": "جزر ماريانا الشمالية",
-            "tr": "Kuzey Mariana Adaları"
+            "ar": "جزر ماريانا الشمالية"
+
+
         },
         "dial_code": "+1670",
         "code": "MP",
@@ -4804,7 +4590,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Norway",
-            "da": "Norge",
             "ru": "Норвегия",
             "pl": "Norwegia",
             "ua": "Норвегія",
@@ -4824,8 +4609,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ノルウェー",
             "he": "נורווגיה",
             "el": "Νορβηγία",
-            "ar": "النرويج",
-            "tr": "Norveç"
+            "ar": "النرويج"
         },
         "dial_code": "+47",
         "code": "NO",
@@ -4834,7 +4618,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Oman",
-            "da": "Oman",
             "ru": "Оман",
             "pl": "Oman",
             "ua": "Оман",
@@ -4854,8 +4637,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "オマーン",
             "he": "עומאן",
             "el": "Ομάν",
-            "ar": "عمان",
-            "tr": "Umman"
+            "ar": "عمان"
         },
         "dial_code": "+968",
         "code": "OM",
@@ -4864,7 +4646,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Pakistan",
-            "da": "Pakistan",
             "ru": "Пакистан",
             "pl": "Pakistan",
             "ua": "Пакистан",
@@ -4884,8 +4665,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "パキスタン",
             "he": "פקיסטן",
             "el": "Πακιστάν",
-            "ar": "باكستان",
-            "tr": "Pakistan"
+            "ar": "باكستان"
         },
         "dial_code": "+92",
         "code": "PK",
@@ -4894,7 +4674,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Palau",
-            "da": "Palau",
             "ru": "Палау",
             "pl": "Palau",
             "ua": "Палау",
@@ -4914,8 +4693,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "パラオ",
             "he": "פלאו",
             "el": "Παλάου",
-            "ar": "بالاو",
-            "tr": "Palau"
+            "ar": "بالاو"
         },
         "dial_code": "+680",
         "code": "PW",
@@ -4924,7 +4702,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Palestinian Territory, Occupied",
-            "da": "Palæstinensisk område, besat",
             "ru": "Палестинская Территория, Оккупированная",
             "pl": "Teretorium Paleństynskie, Okupowane",
             "ua": "Палестинська територія, окупована",
@@ -4944,8 +4721,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "パレスチナ自治区、占領下",
             "he": "הרשות הפלסטינית",
             "el": "Κράτος της Παλαιστίνης",
-            "ar": "فلسطين",
-            "tr": "Filistin, İşgal Altında"
+            "ar": "فلسطين"
+
+
         },
         "dial_code": "+970",
         "code": "PS",
@@ -4954,7 +4732,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Panama",
-            "da": "Panama",
             "ru": "Панама",
             "pl": "Panama",
             "ua": "Панама",
@@ -4974,8 +4751,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "パナマ",
             "he": "פנמה",
             "el": "Παναμάς",
-            "ar": "بنما",
-            "tr": "Panama"
+            "ar": "بنما"
+
+
         },
         "dial_code": "+507",
         "code": "PA",
@@ -4984,7 +4762,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Papua New Guinea",
-            "da": "Papua Ny Guinea",
             "ru": "Папуа - Новая Гвинея",
             "pl": "Papua Nowa Gwinea",
             "ua": "Папуа-Нова Гвінея",
@@ -5004,8 +4781,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "パプアニューギニア",
             "he": "פפואה גינאה החדשה",
             "el": "Παπούα Νέα Γουινέα",
-            "ar": "بابوا غينيا الجديدة",
-            "tr": "Papua Yeni Gine"
+            "ar": "بابوا غينيا الجديدة"
+
+
         },
         "dial_code": "+675",
         "code": "PG",
@@ -5014,7 +4792,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Paraguay",
-            "da": "Paraguay",
             "ru": "Парагвай",
             "pl": "Paragwaj",
             "ua": "Парагвай",
@@ -5034,8 +4811,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "パラグアイ",
             "he": "פרגוואי",
             "el": "Παραγουάη",
-            "ar": "باراغواي",
-            "tr": "Paraguay"
+            "ar": "باراغواي"
         },
         "dial_code": "+595",
         "code": "PY",
@@ -5044,7 +4820,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Peru",
-            "da": "Peru",
             "ru": "Перу",
             "pl": "Peru",
             "ua": "Перу",
@@ -5064,8 +4839,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ペルー",
             "he": "פרו",
             "el": "Περού",
-            "ar": "بيرو",
-            "tr": "Peru"
+            "ar": "بيرو"
         },
         "dial_code": "+51",
         "code": "PE",
@@ -5074,7 +4848,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Philippines",
-            "da": "Filippinerne",
             "ru": "Филиппины",
             "pl": "Filipiny",
             "ua": "Філіппіни",
@@ -5094,8 +4867,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "フィリピン",
             "he": "פיליפינים",
             "el": "Φιλιππίνες",
-            "ar": "الفلبين",
-            "tr": "Filipinler"
+            "ar": "الفلبين"
         },
         "dial_code": "+63",
         "code": "PH",
@@ -5104,7 +4876,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Pitcairn",
-            "da": "Pitcairn",
             "ru": "Питкэрн",
             "pl": "Pitcairn",
             "ua": "Піткерн",
@@ -5124,8 +4895,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "ピトケアン",
             "he": "פיטקרן",
             "el": "Πίτκαιρν",
-            "ar": "بيتكيرن",
-            "tr": "Pitcairn"
+            "ar": "بيتكيرن"
+
         },
         "dial_code": "+872",
         "code": "PN",
@@ -5134,7 +4905,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Poland",
-            "da": "Polen",
             "ru": "Польша",
             "pl": "Polska",
             "ua": "Польща",
@@ -5154,8 +4924,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ポーランド",
             "he": "פולין",
             "el": "Πολωνία",
-            "ar": "بولندا",
-            "tr": "Polonya"
+            "ar": "بولندا"
         },
         "dial_code": "+48",
         "code": "PL",
@@ -5164,7 +4933,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Portugal",
-            "da": "Portugal",
             "ru": "Португалия",
             "pl": "Portugalia",
             "ua": "Португалія",
@@ -5184,8 +4952,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ポルトガル",
             "he": "פורטוגל",
             "el": "Πορτογαλία",
-            "ar": "البرتغال",
-            "tr": "Portekiz"
+            "ar": "البرتغال"
         },
         "dial_code": "+351",
         "code": "PT",
@@ -5194,7 +4961,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Puerto Rico",
-            "da": "Puerto Rico",
             "ru": "Пуэрто-Рико",
             "pl": "Portoryko",
             "ua": "Пуерто Ріко",
@@ -5214,8 +4980,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "プエルトリコ",
             "he": "פוארטו ריקו",
             "el": "Πουέρτο Ρίκο",
-            "ar": "بورتوريكو",
-            "tr": "Porto Riko"
+            "ar": "بورتوريكو"
         },
         "dial_code": "+1939",
         "code": "PR",
@@ -5224,7 +4989,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Qatar",
-            "da": "Qatar",
             "ru": "Катар",
             "pl": "Katar",
             "ua": "Катар",
@@ -5244,8 +5008,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "カタール",
             "he": "קטאר",
             "el": "Κατάρ",
-            "ar": "قطر",
-            "tr": "Katar"
+            "ar": "قطر"
         },
         "dial_code": "+974",
         "code": "QA",
@@ -5254,7 +5017,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Romania",
-            "da": "Rumænien",
             "ru": "Румыния",
             "pl": "Rumunia",
             "ua": "Румунія",
@@ -5274,8 +5036,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ルーマニア",
             "he": "רומניה",
             "el": "Ρουμανία",
-            "ar": "رومانيا",
-            "tr": "Romanya"
+            "ar": "رومانيا"
         },
         "dial_code": "+40",
         "code": "RO",
@@ -5284,7 +5045,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Russia",
-            "da": "Rusland",
             "ru": "Россия",
             "pl": "Rosja",
             "ua": "Росія",
@@ -5304,8 +5064,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ロシア連邦",
             "he": "רוסיה",
             "el": "Ρωσία",
-            "ar": "روسيا",
-            "tr": "Rusya"
+            "ar": "روسيا"
         },
         "dial_code": "+7",
         "code": "RU",
@@ -5314,7 +5073,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Rwanda",
-            "da": "Rwanda",
             "ru": "Руанда",
             "pl": "Rwanda",
             "ua": "Руанда",
@@ -5334,8 +5092,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ルワンダ",
             "he": "רואנדה",
             "el": "Ρουάντα",
-            "ar": "رواندا",
-            "tr": "Ruanda"
+            "ar": "رواندا"
         },
         "dial_code": "+250",
         "code": "RW",
@@ -5344,7 +5101,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Réunion",
-            "da": "Réunion",
             "ru": "Реюньон",
             "pl": "Réunion",
             "ua": "Реюньйон",
@@ -5364,8 +5120,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "再会",
             "he": "איחוד",
             "el": "Ρεουνιόν",
-            "ar": "روينيون",
-            "tr": "Réunion"
+            "ar": "روينيون"
         },
         "dial_code": "+262",
         "code": "RE",
@@ -5374,7 +5129,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Saint Barthélemy",
-            "da": "Saint Barthélemy",
             "ru": "Святой Варфоломей",
             "pl": "Saint Barthelemy",
             "ua": "Сен-Бартелемі",
@@ -5394,8 +5148,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "サンバルテルミー",
             "he": "סנט ברת'למי",
             "el": "Άγιος Βαρθολομαίος",
-            "ar": "سان بارتيلمي",
-            "tr": "Saint Barthélemy"
+            "ar": "سان بارتيلمي"
         },
         "dial_code": "+590",
         "code": "BL",
@@ -5404,7 +5157,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Saint Helena, Ascension and Tristan Da Cunha",
-            "da": "Sankt Helena, Ascension og Tristan Da Cunha",
             "ru": "Святой Елены, Вознесения и Тристан-да-Кунья",
             "pl": "Święta Helena, Wniebowstąpienie i Tristan Da Cunha",
             "ua": "Свята Олена, Вознесіння і Трістан Да Кунья",
@@ -5424,8 +5176,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "セントヘレナ",
             "he": "סנט הלנה",
             "el": "Αγία Ελένη",
-            "ar": "سانت هيلانة، أسينشين وتريستان دا كونها",
-            "tr": "Saint Helena, Ascension ve Tristan Da Cunha"
+            "ar": "سانت هيلانة، أسينشين وتريستان دا كونها"
         },
         "dial_code": "+290",
         "code": "SH",
@@ -5434,7 +5185,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Saint Kitts and Nevis",
-            "da": "Saint Kitts og Nevis",
             "ru": "Сент-Китс и Невис",
             "pl": "Saint Kitts i Nevis",
             "ua": "Сент-Кітс і Невіс",
@@ -5454,8 +5204,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "セントクリストファーネイビス",
             "he": "סנט קיטס ונוויס",
             "el": "Άγιος Χριστόφορος και Νέβις",
-            "ar": "سانت كيتس ونيفيس",
-            "tr": "Saint Kitts ve Nevis"
+            "ar": "سانت كيتس ونيفيس"
         },
         "dial_code": "+1869",
         "code": "KN",
@@ -5464,9 +5213,8 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Saint Lucia",
-            "da": "Saint Lucia",
             "ru": "Санкт-Люсия",
-            "pl": "Święta Lucia",
+            "pl": "święta Lucia",
             "ua": "Сент-Люсія",
             "cz": "Svatá Lucie",
             "by": "Святая Люсія",
@@ -5484,8 +5232,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "セントルシア",
             "he": "סנט לוסיה",
             "el": "Αγία Λουκία",
-            "ar": "سانت لوسيا",
-            "tr": "Saint Lucia"
+            "ar": "سانت لوسيا"
         },
         "dial_code": "+1758",
         "code": "LC",
@@ -5494,9 +5241,8 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Saint Martin",
-            "da": "Saint Martin",
             "ru": "Сен-Мартен",
-            "pl": "Święty Marcin",
+            "pl": "święty Marcin",
             "ua": "Святий Мартін",
             "cz": "Svatý Martin",
             "by": "Святы Марцін",
@@ -5514,8 +5260,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "サンマルタン",
             "he": "מרטין הקדוש",
             "el": "Άγιος Μαρτίνος",
-            "ar": "سانت مارتن",
-            "tr": "Saint Martin"
+            "ar": "سانت مارتن"
         },
         "dial_code": "+1721",
         "code": "SX",
@@ -5524,9 +5269,8 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Saint Martin",
-            "da": "Saint Martin",
             "ru": "Сен-Мартен",
-            "pl": "Święty Marcin",
+            "pl": "święty Marcin",
             "ua": "Святий Мартін",
             "cz": "Svatý Martin",
             "by": "Святы Марцін",
@@ -5544,8 +5288,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "サンマルタン",
             "he": "מרטין הקדוש",
             "el": "Άγιος Μαρτίνος",
-            "ar": "سانت مارتن",
-            "tr": "Saint Martin"
+            "ar": "سانت مارتن"
         },
         "dial_code": "+590",
         "code": "MF",
@@ -5554,7 +5297,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Saint Pierre and Miquelon",
-            "da": "Saint Pierre og Miquelon",
             "ru": "Сен-Пьер и Микелон",
             "pl": "Saint-Pierre i Miquelon",
             "ua": "Сен-П'єр і Мікелон",
@@ -5574,8 +5316,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "サンピエール島とミクロン島",
             "he": "סנט פייר ומיקלון",
             "el": "Σεντ Πιέρ και Μικελόν",
-            "ar": "سانت بيير وميكلون",
-            "tr": "Saint Pierre ve Miquelon"
+            "ar": "سانت بيير وميكلون"
+
+
         },
         "dial_code": "+508",
         "code": "PM",
@@ -5584,7 +5327,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Saint Vincent and the Grenadines",
-            "da": "Saint Vincent og Grenadinerne",
             "ru": "Святой Винсент и Гренадины",
             "pl": "Saint Vincent i Grenadyny",
             "ua": "Сент-Вінсент і Гренадини",
@@ -5604,8 +5346,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "セントビンセントおよびグレナディーン諸島",
             "he": "סנט וינסנט והגרנדינים",
             "el": "Άγιος Βικέντιος και Γρεναδίνες",
-            "ar": "سانت فنسنت وجزر غرينادين",
-            "tr": "Saint Vincent ve Grenadinler"
+            "ar": "سانت فنسنت وجزر غرينادين"
+
         },
         "dial_code": "+1784",
         "code": "VC",
@@ -5614,7 +5356,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Samoa",
-            "da": "Samoa",
             "ru": "Самоа",
             "pl": "Samoa",
             "ua": "Самоа",
@@ -5634,8 +5375,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "サモア",
             "he": "סמואה",
             "el": "Σαμόα",
-            "ar": "ساموا",
-            "tr": "Samoa"
+            "ar": "ساموا"
+
+
         },
         "dial_code": "+685",
         "code": "WS",
@@ -5644,7 +5386,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "San Marino",
-            "da": "San Marino",
             "ru": "Сан-Марино",
             "pl": "San Marino",
             "ua": "Сан-Марино",
@@ -5664,8 +5405,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "サンマリノ",
             "he": "סן מרינו",
             "el": "Άγιος Μαρίνος",
-            "ar": "سان مارينو",
-            "tr": "San Marino"
+            "ar": "سان مارينو"
         },
         "dial_code": "+378",
         "code": "SM",
@@ -5674,7 +5414,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Sao Tome and Principe",
-            "da": "Sao Tome og Principe",
             "ru": "Сан-Томе и Принсипи",
             "pl": "Wyspy Świętego Tomasza i Książęca",
             "ua": "Сан-Томе і Принсіпі",
@@ -5694,8 +5433,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "サントメ・プリンシペ",
             "he": "סאו טומה ופרינסיפה",
             "el": "Σάο Τομέ και Πρίνσιπε",
-            "ar": "ساو تومي وبرينسيبي",
-            "tr": "Sao Tome ve Principe"
+            "ar": "ساو تومي وبرينسيبي"
+
+
         },
         "dial_code": "+239",
         "code": "ST",
@@ -5704,7 +5444,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Saudi Arabia",
-            "da": "Saudi-Arabien",
             "ru": "Саудовская Аравия",
             "pl": "Arabia Saudyjska",
             "ua": "Саудівська Аравія",
@@ -5724,8 +5463,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "サウジアラビア",
             "he": "ערב הסעודית",
             "el": "Σαουδική Αραβία",
-            "ar": "السعودية",
-            "tr": "Suudi Arabistan"
+            "ar": "السعودية"
         },
         "dial_code": "+966",
         "code": "SA",
@@ -5734,7 +5472,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Senegal",
-            "da": "Senegal",
             "ru": "Сенегал",
             "pl": "Senegal",
             "ua": "Сенегал",
@@ -5754,8 +5491,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "セネガル",
             "he": "סנגל",
             "el": "Σενεγάλη",
-            "ar": "السنغال",
-            "tr": "Senegal"
+            "ar": "السنغال"
         },
         "dial_code": "+221",
         "code": "SN",
@@ -5764,7 +5500,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Serbia",
-            "da": "Serbien",
             "ru": "Сербия",
             "pl": "Serbia",
             "ua": "Сербія",
@@ -5784,8 +5519,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "セルビア",
             "he": "סרביה",
             "el": "Σερβία",
-            "ar": "صربيا",
-            "tr": "Sırbistan"
+            "ar": "صربيا"
         },
         "dial_code": "+381",
         "code": "RS",
@@ -5794,7 +5528,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Seychelles",
-            "da": "Seychellerne",
             "ru": "Сейшельские острова",
             "pl": "Seszele",
             "ua": "Сейшельські острови",
@@ -5814,8 +5547,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "セイシェル",
             "he": "איי סיישל",
             "el": "Σεϋχέλλες",
-            "ar": "سيشل",
-            "tr": "Seyşeller"
+            "ar": "سيشل"
         },
         "dial_code": "+248",
         "code": "SC",
@@ -5824,7 +5556,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Sierra Leone",
-            "da": "Sierra Leone",
             "ru": "Сьерра-Леоне",
             "pl": "Sierra Leone",
             "ua": "Сьєрра-Леоне",
@@ -5844,8 +5575,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "シエラレオネ",
             "he": "סיירה לאון",
             "el": "Σιέρα Λεόνε",
-            "ar": "سيراليون",
-            "tr": "Sierra Leone"
+            "ar": "سيراليون"
+
         },
         "dial_code": "+232",
         "code": "SL",
@@ -5854,7 +5585,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Singapore",
-            "da": "Singapore",
             "ru": "Сингапур",
             "pl": "Singapur",
             "ua": "Сінгапур",
@@ -5874,8 +5604,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "シンガポール",
             "he": "סינגפור",
             "el": "Σιγκαπούρη",
-            "ar": "سنغافورة",
-            "tr": "Singapur"
+            "ar": "سنغافورة"
         },
         "dial_code": "+65",
         "code": "SG",
@@ -5884,7 +5613,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Slovakia",
-            "da": "Slovakiet",
             "ru": "Словакия",
             "pl": "Słowacja",
             "ua": "Словаччина",
@@ -5904,8 +5632,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "スロバキア",
             "he": "סלובקיה",
             "el": "Σλοβακία",
-            "ar": "سلوفاكيا",
-            "tr": "Slovakya"
+            "ar": "سلوفاكيا"
         },
         "dial_code": "+421",
         "code": "SK",
@@ -5913,8 +5640,12 @@ export const countryCodes: CountryItem[] = [
     },
     {
         "name": {
+            "sl": "Slovenija",
+            "hr": "Slovenija",
+            "mk": "Словенија",
+            "sq": "Sllovenia",
+            "sr": "Словенија / Slovenija",
             "en": "Slovenia",
-            "da": "Slovenien",
             "ru": "Словения",
             "pl": "Słowenia",
             "ua": "Словенія",
@@ -5934,8 +5665,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "スロベニア",
             "he": "סלובניה",
             "el": "Σλοβενία",
-            "ar": "سلوفينيا",
-            "tr": "Slovenya"
+            "ar": "سلوفينيا"
         },
         "dial_code": "+386",
         "code": "SI",
@@ -5944,7 +5674,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Solomon Islands",
-            "da": "Salomonøerne",
             "ru": "Соломоновы острова",
             "pl": "Wyspy Salomona",
             "ua": "Соломонові острови",
@@ -5964,8 +5693,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ソロモン諸島",
             "he": "איי שלמה",
             "el": "Νησιά Σολομώντα",
-            "ar": "جزر سليمان",
-            "tr": "Solomon Adaları"
+            "ar": "جزر سليمان"
         },
         "dial_code": "+677",
         "code": "SB",
@@ -5974,7 +5702,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Somalia",
-            "da": "Somalia",
             "ru": "Сомали",
             "pl": "Somali",
             "ua": "Сомалі",
@@ -5994,8 +5721,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ソマリア",
             "he": "סומליה",
             "el": "Σομαλία",
-            "ar": "الصومال",
-            "tr": "Somali"
+            "ar": "الصومال"
         },
         "dial_code": "+252",
         "code": "SO",
@@ -6004,7 +5730,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "South Africa",
-            "da": "Sydafrika",
             "ru": "Южная Африка",
             "pl": "Afryka Południowa",
             "ua": "Південна Африка",
@@ -6024,8 +5749,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "南アフリカ",
             "he": "דרום אפריקה",
             "el": "Νότια Αφρική",
-            "ar": "جنوب أفريقيا",
-            "tr": "Güney Afrika"
+            "ar": "جنوب أفريقيا"
         },
         "dial_code": "+27",
         "code": "ZA",
@@ -6034,7 +5758,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "South Georgia and the South Sandwich Islands",
-            "da": "South Georgia og de sydlige Sandwichøer",
             "ru": "Южная Георгия и Южные Сандвичевы острова",
             "pl": "Georgia Południowa i Sandwich Południowy",
             "ua": "Південна Джорджія та Південні Сандвічеві острови",
@@ -6054,8 +5777,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "サウスジョージア島とサウスサンドイッチ諸島",
             "he": "דרום ג'ורג'יה ואיי סנדוויץ' הדרומיים",
             "el": "Νότιος Γεωργία και Νότιοι Νήσοι Σάντουιτς",
-            "ar": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
-            "tr": "Güney Georgia ve Güney Sandwich Adaları"
+            "ar": "جورجيا الجنوبية وجزر ساندويتش الجنوبية"
+
+
         },
         "dial_code": "+500",
         "code": "GS",
@@ -6064,7 +5788,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Spain",
-            "da": "Spanien",
             "ru": "Испания",
             "pl": "Hiszpania",
             "ua": "Іспанія",
@@ -6084,8 +5807,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "スペイン",
             "he": "ספרד",
             "el": "Ισπανία",
-            "ar": "إسبانيا",
-            "tr": "İspanya"
+            "ar": "إسبانيا"
         },
         "dial_code": "+34",
         "code": "ES",
@@ -6094,7 +5816,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Sri Lanka",
-            "da": "Sri Lanka",
             "ru": "Шри-Ланка",
             "pl": "Sri Lanka",
             "ua": "Шрі Ланка",
@@ -6114,8 +5835,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "スリランカ",
             "he": "סרי לנקה",
             "el": "Σρι Λάνκα",
-            "ar": "سريلانكا",
-            "tr": "Sri Lanka"
+            "ar": "سريلانكا"
         },
         "dial_code": "+94",
         "code": "LK",
@@ -6124,7 +5844,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Sudan",
-            "da": "Sudan",
             "ru": "Судан",
             "pl": "Sudan",
             "ua": "Судан",
@@ -6144,8 +5863,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "スーダン",
             "he": "סודן",
             "el": "Σουδάν",
-            "ar": "السودان",
-            "tr": "Sudan"
+            "ar": "السودان"
         },
         "dial_code": "+249",
         "code": "SD",
@@ -6154,7 +5872,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Suriname",
-            "da": "Surinam",
             "ru": "Суринам",
             "pl": "Surinam",
             "ua": "Суринам",
@@ -6174,8 +5891,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "スリナム",
             "he": "סורינאם",
             "el": "Σουρινάμ",
-            "ar": "سورينام",
-            "tr": "Surinam"
+            "ar": "سورينام"
+
+
         },
         "dial_code": "+597",
         "code": "SR",
@@ -6184,7 +5902,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Svalbard and Jan Mayen",
-            "da": "Svalbard og Jan Mayen",
             "ru": "Шпицберген и Ян Майен",
             "pl": "Svalbard i Jan Mayen",
             "ua": "Шпіцберген та Ян Маєн",
@@ -6204,8 +5921,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "スバールバル諸島およびヤンマイエン",
             "he": "סבאלברד ויאן מאין",
             "el": "Σβάλμπαρντ και Γιαν Μάγεν",
-            "ar": "سفالبارد ويان ماين",
-            "tr": "Svalbard ve Jan Mayen"
+            "ar": "سفالبارد ويان ماين"
+
+
         },
         "dial_code": "+47",
         "code": "SJ",
@@ -6214,7 +5932,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Swaziland",
-            "da": "Swaziland",
             "ru": "Свазиленд",
             "pl": "Suazi",
             "ua": "Свазіленд",
@@ -6234,8 +5951,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "スワジランド",
             "he": "סווזילנד",
             "el": "Σουαζιλάνδη",
-            "ar": "سوازيلاندا",
-            "tr": "Esvatini"
+            "ar": "سوازيلاندا"
+
         },
         "dial_code": "+268",
         "code": "SZ",
@@ -6244,7 +5961,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Sweden",
-            "da": "Sverige",
             "ru": "Швеция",
             "pl": "Szwecja",
             "ua": "Швеція",
@@ -6264,8 +5980,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "スウェーデン",
             "he": "שבדיה",
             "el": "Σουηδία",
-            "ar": "السويد",
-            "tr": "İsveç"
+            "ar": "السويد"
+
+
         },
         "dial_code": "+46",
         "code": "SE",
@@ -6274,7 +5991,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Switzerland",
-            "da": "Schweiz",
             "ru": "Швейцария",
             "pl": "Szwajcaria",
             "ua": "Швейцарія",
@@ -6294,8 +6010,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "スイス",
             "he": "שוויץ",
             "el": "Ελβετία",
-            "ar": "سويسرا",
-            "tr": "İsviçre"
+            "ar": "سويسرا"
+
+
         },
         "dial_code": "+41",
         "code": "CH",
@@ -6304,7 +6021,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Syrian Arab Republic",
-            "da": "Den Syriske Arabiske Republik",
             "ru": "Сирийская Арабская Республика",
             "pl": "Republika Syryjsko-Arabska",
             "ua": "Сирійська Арабська Республіка",
@@ -6324,8 +6040,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "シリアアラブ共和国",
             "he": "סוריה",
             "el": "Συρία",
-            "ar": "سوريا",
-            "tr": "Suriye"
+            "ar": "سوريا"
         },
         "dial_code": "+963",
         "code": "SY",
@@ -6334,7 +6049,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Taiwan, Province of China",
-            "da": "Taiwan, provinsen Kina",
             "ru": "Тайвань, провинция Китая",
             "pl": "Tajwan, prowincja Chin",
             "ua": "Тайвань, провінція Китаю",
@@ -6354,8 +6068,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "台湾、中国省",
             "he": "טיוואן",
             "el": "Ταϊβάν",
-            "ar": "تايوان",
-            "tr": "Tayvan, Çin Eyaleti"
+            "ar": "تايوان"
+
         },
         "dial_code": "+886",
         "code": "TW",
@@ -6364,7 +6078,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Tajikistan",
-            "da": "Tadsjikistan",
             "ru": "Таджикистан",
             "pl": "Tadżykistan",
             "ua": "Таджикистан",
@@ -6384,8 +6097,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "タジキスタン",
             "he": "טג'יקיסטן",
             "el": "Τατζικιστάν",
-            "ar": "طاجيكستان",
-            "tr": "Tacikistan"
+            "ar": "طاجيكستان"
         },
         "dial_code": "+992",
         "code": "TJ",
@@ -6394,7 +6106,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Tanzania, United Republic of",
-            "da": "Tanzania, Den Forenede Republik",
             "ru": "Танзания, Объединенная Республика",
             "pl": "Tanzania, Zjednoczona Republika",
             "ua": "Танзанія, Об'єднана республіка",
@@ -6414,8 +6125,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "タンザニア、連合共和国",
             "he": "טנזניה",
             "el": "Τανζανία",
-            "ar": "تنزانيا",
-            "tr": "Tanzanya, Birleşik Cumhuriyeti"
+            "ar": "تنزانيا"
         },
         "dial_code": "+255",
         "code": "TZ",
@@ -6424,7 +6134,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Thailand",
-            "da": "Thailand",
             "ru": "Таиланд",
             "pl": "Tajlandia",
             "ua": "Таїланд",
@@ -6444,8 +6153,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "タイ",
             "he": "תאילנד",
             "el": "Ταϊλάνδη",
-            "ar": "تايلاند",
-            "tr": "Tayland"
+            "ar": "تايلاند"
         },
         "dial_code": "+66",
         "code": "TH",
@@ -6454,7 +6162,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Timor-Leste",
-            "da": "Timor-Leste",
             "ru": "Восточный Тимор",
             "pl": "Timor Wschodni",
             "ua": "Восточний Тимор",
@@ -6474,8 +6181,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "東ティモール",
             "he": "טימור-לסטה",
             "el": "Ανατολικό Τιμόρ",
-            "ar": "تيمور الشرقية",
-            "tr": "Doğu Timor"
+            "ar": "تيمور الشرقية"
+
+
         },
         "dial_code": "+670",
         "code": "TL",
@@ -6484,7 +6192,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Togo",
-            "da": "Togo",
             "ru": "Того",
             "pl": "Togo",
             "ua": "Того",
@@ -6504,8 +6211,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "トーゴ",
             "he": "טוגו",
             "el": "Τόγκο",
-            "ar": "توغو",
-            "tr": "Togo"
+            "ar": "توغو"
+
         },
         "dial_code": "+228",
         "code": "TG",
@@ -6514,7 +6221,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Tokelau",
-            "da": "Tokelau",
             "ru": "Токелау",
             "pl": "Tokelau",
             "ua": "Токелау",
@@ -6534,8 +6240,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "トケラウ",
             "he": "טוקלאו",
             "el": "Τοκελάου",
-            "ar": "توكيلاو",
-            "tr": "Tokelau"
+            "ar": "توكيلاو"
+
+
         },
         "dial_code": "+690",
         "code": "TK",
@@ -6544,7 +6251,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Tonga",
-            "da": "Tonga",
             "ru": "Тонга",
             "pl": "Tonga",
             "ua": "Тонга",
@@ -6564,8 +6270,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "トンガ",
             "he": "טונגה",
             "el": "Τόνγκα",
-            "ar": "تونغا",
-            "tr": "Tonga"
+            "ar": "تونغا"
+
         },
         "dial_code": "+676",
         "code": "TO",
@@ -6574,7 +6280,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Trinidad and Tobago",
-            "da": "Trinidad og Tobago",
             "ru": "Тринидад и Тобаго",
             "pl": "Trynidad i Tobago",
             "ua": "Тринідад і Тобаго",
@@ -6594,8 +6299,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "トリニダード・トバゴ",
             "he": "טרינידד וטובגו",
             "el": "Τρίνινταντ και Tομπάγκο",
-            "ar": "ترينيداد وتوباغو",
-            "tr": "Trinidad ve Tobago"
+            "ar": "ترينيداد وتوباغو"
+
         },
         "dial_code": "+1868",
         "code": "TT",
@@ -6604,7 +6309,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Tunisia",
-            "da": "Tunesien",
             "ru": "Тунис",
             "pl": "Tunezja",
             "ua": "Туніс",
@@ -6624,8 +6328,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "チュニジア",
             "he": "תוניסיה",
             "el": "Τυνησία",
-            "ar": "تونس",
-            "tr": "Tunus"
+            "ar": "تونس"
         },
         "dial_code": "+216",
         "code": "TN",
@@ -6634,7 +6337,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Turkey",
-            "da": "Tyrkiet",
             "ru": "Турция",
             "pl": "Turcja",
             "ua": "Туреччина",
@@ -6654,8 +6356,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "七面鳥",
             "he": "טורקיה",
             "el": "Τουρκία",
-            "ar": "تركيا",
-            "tr": "Türkiye"
+            "ar": "تركيا"
         },
         "dial_code": "+90",
         "code": "TR",
@@ -6664,7 +6365,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Turkmenistan",
-            "da": "Turkmenistan",
             "ru": "Туркменистан",
             "pl": "Turkmenia",
             "ua": "Туркменістан",
@@ -6684,8 +6384,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "トルクメニスタン",
             "he": "טורקמניסטן",
             "el": "Τουρκμενιστάν",
-            "ar": "تركمانستان",
-            "tr": "Türkmenistan"
+            "ar": "تركمانستان"
         },
         "dial_code": "+993",
         "code": "TM",
@@ -6694,7 +6393,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Turks and Caicos Islands",
-            "da": "Turks- og Caicosøerne",
             "ru": "Острова Теркс и Кайкос",
             "pl": "Wyspy Turks i Caicos",
             "ua": "Острови Теркс і Кайкос",
@@ -6714,8 +6412,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "タークス・カイコス諸島",
             "he": "איי טורקס וקאיקוס",
             "el": "Νήσοι Τουρκ και Κάικος",
-            "ar": "جزر تركس وكايكوس",
-            "tr": "Turks ve Caicos Adaları"
+            "ar": "جزر تركس وكايكوس"
+
+
         },
         "dial_code": "+1649",
         "code": "TC",
@@ -6724,7 +6423,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Tuvalu",
-            "da": "Tuvalu",
             "ru": "Тувалу",
             "pl": "Tuvalu",
             "ua": "Тувалу",
@@ -6744,8 +6442,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ツバル",
             "he": "טובאלו",
             "el": "Τουβαλού",
-            "ar": "توفالو",
-            "tr": "Tuvalu"
+            "ar": "توفالو"
         },
         "dial_code": "+688",
         "code": "TV",
@@ -6754,7 +6451,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Uganda",
-            "da": "Uganda",
             "ru": "Уганда",
             "pl": "Uganda",
             "ua": "Уганда",
@@ -6774,8 +6470,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ウガンダ",
             "he": "אוגנדה",
             "el": "Ουγκάντα",
-            "ar": "أوغندا",
-            "tr": "Uganda"
+            "ar": "أوغندا"
         },
         "dial_code": "+256",
         "code": "UG",
@@ -6784,7 +6479,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Ukraine",
-            "da": "Ukraine",
             "ru": "Украина",
             "pl": "Ukraina",
             "ua": "Україна",
@@ -6804,8 +6498,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ウクライナ",
             "he": "אוקראינה",
             "el": "Ουκρανία",
-            "ar": "أوكرانيا",
-            "tr": "Ukrayna"
+            "ar": "أوكرانيا"
         },
         "dial_code": "+380",
         "code": "UA",
@@ -6814,7 +6507,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "United Arab Emirates",
-            "da": "De Forenede Arabiske Emirater",
             "ru": "Объединенные Арабские Эмираты",
             "pl": "Zjednoczone Emiraty Arabskie",
             "ua": "Об'єднані Арабські Емірати",
@@ -6834,8 +6526,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "アラブ首長国連邦",
             "he": "איחוד האמירויות הערביות",
             "el": "Ηνωμένα Αραβικά Εμιράτα",
-            "ar": "الإمارات العربية المتحدة",
-            "tr": "Birleşik Arap Emirlikleri"
+            "ar": "الإمارات العربية المتحدة"
         },
         "dial_code": "+971",
         "code": "AE",
@@ -6844,7 +6535,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "United Kingdom",
-            "da": "Storbritannien",
             "ru": "Объединенное Королевство",
             "pl": "Zjednoczone Królestwo",
             "ua": "Об'єднане Королівство",
@@ -6864,8 +6554,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "イギリス",
             "he": "הממלכה המאוחדת",
             "el": "Ηνωμένο Βασίλειο",
-            "ar": "المملكة المتحدة",
-            "tr": "Birleşik Krallık"
+            "ar": "المملكة المتحدة"
+
         },
         "dial_code": "+44",
         "code": "GB",
@@ -6874,7 +6564,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "United States",
-            "da": "USA",
             "ru": "Соединенные Штаты",
             "pl": "Stany Zjednoczone",
             "ua": "Сполучені Штати",
@@ -6894,8 +6583,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "アメリカ",
             "he": "ארצות הברית",
             "el": "Ηνωμένες Πολιτείες Αμερικής",
-            "ar": "الولايات المتحدة الأمريكية",
-            "tr": "Amerika Birleşik Devletleri"
+            "ar": "الولايات المتحدة الأمريكية"
         },
         "dial_code": "+1",
         "code": "US",
@@ -6904,7 +6592,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Uruguay",
-            "da": "Uruguay",
             "ru": "Уругвай",
             "pl": "Urugwaj",
             "ua": "Уругвай",
@@ -6924,8 +6611,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ウルグアイ",
             "he": "אורוגוואי",
             "el": "Ουρουγουάη",
-            "ar": "أوروغواي",
-            "tr": "Uruguay"
+            "ar": "أوروغواي"
         },
         "dial_code": "+598",
         "code": "UY",
@@ -6934,7 +6620,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Uzbekistan",
-            "da": "Usbekistan",
             "ru": "Узбекистан",
             "pl": "Uzbekistan",
             "ua": "Узбекистан",
@@ -6954,8 +6639,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ウズベキスタン",
             "he": "אוזבקיסטן",
             "el": "Ουζμπεκιστάν",
-            "ar": "أوزبكستان",
-            "tr": "Özbekistan"
+            "ar": "أوزبكستان"
         },
         "dial_code": "+998",
         "code": "UZ",
@@ -6964,7 +6648,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Vanuatu",
-            "da": "Vanuatu",
             "ru": "Вануату",
             "pl": "Vanuatu",
             "ua": "Вануату",
@@ -6984,8 +6667,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "バヌアツ",
             "he": "ונואטו",
             "el": "Βανουάτου",
-            "ar": "فانواتو",
-            "tr": "Vanuatu"
+            "ar": "فانواتو"
         },
         "dial_code": "+678",
         "code": "VU",
@@ -6994,7 +6676,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Venezuela, Bolivarian Republic of",
-            "da": "Venezuela, Den Bolivariske Republik",
             "ru": "Венесуэла, Боливарианская Республика",
             "pl": "Wenezuela, Republika Boliwariańska",
             "ua": "Венесуела, Боліваріанська Республіка",
@@ -7014,8 +6695,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ベネズエラ",
             "he": "ונצואלה",
             "el": "Βενεζουέλα",
-            "ar": "فنزويلا",
-            "tr": "Venezuela"
+            "ar": "فنزويلا"
         },
         "dial_code": "+58",
         "code": "VE",
@@ -7024,7 +6704,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Viet Nam",
-            "da": "Vietnam",
             "ru": "Вьетнам",
             "pl": "Wietnam",
             "ua": "В'єтнам",
@@ -7044,8 +6723,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ベトナム",
             "he": "וייטנאם",
             "el": "Βιετνάμ",
-            "ar": "فيتنام",
-            "tr": "Vietnam"
+            "ar": "فيتنام"
         },
         "dial_code": "+84",
         "code": "VN",
@@ -7054,7 +6732,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Virgin Islands, British",
-            "da": "Jomfruøerne, britiske",
             "ru": "Виргинские острова, Британские",
             "pl": "Wyspy Dziewicze, Brytyjskie",
             "ua": "Віргінські острови, Британські",
@@ -7074,8 +6751,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "英領バージン諸島",
             "he": "איי הבתולה הבריטיים",
             "el": "Βρετανικές Παρθένοι Νήσοι",
-            "ar": "جزر العذراء البريطانية",
-            "tr": "Virgin Adaları"
+            "ar": "جزر العذراء البريطانية"
+
+
         },
         "dial_code": "+1284",
         "code": "VG",
@@ -7086,7 +6764,6 @@ export const countryCodes: CountryItem[] = [
 
         "name": {
             "en": "Virgin Islands, U.S.",
-            "da": "Jomfruøerne, U.S.A.",
             "ru": "Американские Виргинские острова",
             "pl": "Wyspy Dziewicze Stanów Zjednoczonych",
             "ua": "Віргінські острови, США",
@@ -7106,8 +6783,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "アメリカ領バージン諸島",
             "he": "איי הבתולה של ארצות הברית",
             "el": "Αμερικανικές Παρθένοι Νήσοι",
-            "ar": "جزر العذراء الأمريكية",
-            "tr": "ABD Virjin Adaları"
+            "ar": "جزر العذراء الأمريكية"
+
         },
         "dial_code": "+1340",
         "code": "VI",
@@ -7116,7 +6793,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Wallis and Futuna",
-            "da": "Wallis og Futuna",
             "ru": "Уоллис и Футуна",
             "pl": "Wallis i Futuna",
             "ua": "Уолліс і Футуна",
@@ -7136,8 +6812,9 @@ export const countryCodes: CountryItem[] = [
             "jp": "ウォリス・フツナ",
             "he": "וואליס ופוטונה",
             "el": "Ουώλλις και Φουτούνα",
-            "ar": "واليس وفوتونا",
-            "tr": "Wallis ve Futuna"
+            "ar": "واليس وفوتونا"
+
+
         },
         "dial_code": "+681",
         "code": "WF",
@@ -7146,7 +6823,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Yemen",
-            "da": "Yemen",
             "ru": "Йемен",
             "pl": "Jemen",
             "ua": "Ємен",
@@ -7166,8 +6842,8 @@ export const countryCodes: CountryItem[] = [
             "jp": "イエメン",
             "he": "תימן",
             "el": "Υεμένη",
-            "ar": "اليمن",
-            "tr": "Yemen"
+            "ar": "اليمن"
+
         },
         "dial_code": "+967",
         "code": "YE",
@@ -7176,7 +6852,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Zambia",
-            "da": "Zambia",
             "ru": "Замбия",
             "pl": "Zambia",
             "ua": "Замбія",
@@ -7196,8 +6871,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ザンビア",
             "he": "זמביה",
             "el": "Ζάμπια",
-            "ar": "زامبيا",
-            "tr": "Zambiya"
+            "ar": "زامبيا"
         },
         "dial_code": "+260",
         "code": "ZM",
@@ -7206,7 +6880,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Zimbabwe",
-            "da": "Zimbabwe",
             "ru": "Зимбабве",
             "pl": "Zimbabwe",
             "ua": "Зімбабве",
@@ -7226,8 +6899,7 @@ export const countryCodes: CountryItem[] = [
             "jp": "ジンバブエ",
             "he": "זימבבואה",
             "el": "Ζιμπάμπουε",
-            "ar": "زيمبابوي",
-            "tr": "Zimbabve"
+            "ar": "زيمبابوي"
         },
         "dial_code": "+263",
         "code": "ZW",
@@ -7236,7 +6908,6 @@ export const countryCodes: CountryItem[] = [
     {
         "name": {
             "en": "Åland Islands",
-            "da": "Ålandsøerne",
             "ru": "Аландские острова",
             "pl": "Wyspy Alandzkie",
             "ua": "Аландські острови",
@@ -7256,11 +6927,45 @@ export const countryCodes: CountryItem[] = [
             "jp": "オーランド諸島",
             "he": "איי אלנד",
             "el": "Νήσοι Άλαντ",
-            "ar": "جزر آلاند",
-            "tr": "Åland Adaları"
+            "ar": "جزر آلاند"
+
         },
         "dial_code": "+358",
         "code": "AX",
+        "flag": "🇦🇽"
+    },
+    {
+        "name": {
+            "sl": "Kosovo",
+            "hr": "Kosovo",
+            "mk": "Косово",
+            "sq": "Kosova",
+            "sr": "Косово / Kosovo",
+            "en": "Kosovo",
+            "ru": "Аландские острова",
+            "pl": "Wyspy Alandzkie",
+            "ua": "Аландські острови",
+            "cz": "Alandy",
+            "by": "Аландскія астравы",
+            "pt": "Ilhas Aland",
+            "es": "Islas Åland",
+            "ro": "Insulele Aland",
+            "bg": "Аландски острови",
+            "de": "Aland Islands",
+            "fr": "Iles Aland",
+            "nl": "Aland-eilanden",
+            "it": "Isole Aland",
+            "cn": "奥兰群岛",
+            "zh": "奧蘭群島",
+            "ee": "Alandi saared",
+            "jp": "オーランド諸島",
+            "he": "איי אלנד",
+            "el": "Νήσοι Άλαντ",
+            "ar": "جزر آلاند"
+
+        },
+        "dial_code": "+383",
+        "code": "XK",
         "flag": "🇦🇽"
     }
 ];
