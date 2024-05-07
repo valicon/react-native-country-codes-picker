@@ -6966,6 +6966,6 @@ export const countryCodes: CountryItem[] = [
         },
         "dial_code": "+383",
         "code": "XK",
-        "flag": "🇦🇽"
+        "flag": "🇽🇰"
     }
 ];
