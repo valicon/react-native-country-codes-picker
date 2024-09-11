@@ -34,7 +34,7 @@ export const countryCodes: CountryItem[] = [
             "sl": "Albanija",
             "hr": "Albanija",
             "mk": "Албанија",
-            "sq": "Shqipëriac",
+            "sq": "Shqipëria",
             "sr": "Albanija",
             "en": "Albania",
             "ru": "Албания",
