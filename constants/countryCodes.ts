@@ -31,6 +31,7 @@ export const countryCodes: CountryItem[] = [
     },
     {
         "name": {
+            "bs": "Albanija",
             "sl": "Albanija",
             "hr": "Albanija",
             "mk": "Албанија",
@@ -1484,6 +1485,7 @@ export const countryCodes: CountryItem[] = [
     },
     {
         "name": {
+            "bs": "Hrvatska",
             "sl": "Hrvaška",
             "hr": "Hrvatska",
             "mk": "Хрватска",
@@ -3572,6 +3574,7 @@ export const countryCodes: CountryItem[] = [
     },
     {
         "name": {
+            "bs": "Sjeverna Makedonija",
             "sl": "Severna Makedonija",
             "hr": "Sjeverna Makedonija",
             "mk": "Северна Македонија",
@@ -4066,6 +4069,7 @@ export const countryCodes: CountryItem[] = [
     },
     {
         "name": {
+            "bs": "Crna Gora",
             "sl": "Črna Gora",
             "hr": "Crna Gora",
             "mk": "Црна Гора",
@@ -5499,6 +5503,12 @@ export const countryCodes: CountryItem[] = [
     },
     {
         "name": {
+            "bs": "Srbija",
+            "sl": "Srbija",
+            "hr": "Srbija",
+            "mk": "Србија",
+            "sq": "Serbisë",
+            "sr": "Srbija",
             "en": "Serbia",
             "ru": "Сербия",
             "pl": "Serbia",
@@ -5640,6 +5650,7 @@ export const countryCodes: CountryItem[] = [
     },
     {
         "name": {
+            "bs": "Slovenija",
             "sl": "Slovenija",
             "hr": "Slovenija",
             "mk": "Словенија",
@@ -6936,6 +6947,7 @@ export const countryCodes: CountryItem[] = [
     },
     {
         "name": {
+            "bs": "Kosovo",
             "sl": "Kosovo",
             "hr": "Kosovo",
             "mk": "Косово",
