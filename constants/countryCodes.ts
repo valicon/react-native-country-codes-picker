@@ -744,6 +744,13 @@ export const countryCodes: CountryItem[] = [
     },
     {
         "name": {
+            "bs": "Bosna i Herzegovina",
+            "sl": "Bosna in Herzegovina",
+            "hr": "Bosna i Herzegovina",
+            "mk": "Босна и Херцеговина",
+            "sq": "Bosnjë dhe Hercegovinë",
+            "sr": "Bosna i Herzegovina",
+            "en": "Bosnia and Herzegovina",
             "en": "Bosnia and Herzegovina",
             "ru": "Босния и Герцеговина",
             "pl": "Bośnia i Hercegowina",
