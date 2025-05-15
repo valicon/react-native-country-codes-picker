@@ -268,7 +268,7 @@ export const CountryPicker = ({
                         }}
                     >
                         <TextInput
-                            style={[styles.searchBar, style?.textInput]}
+                            style={[processStyle(styles.searchBar), processStyle(style?.textInput)]}
                             value={searchValue}
                             onChangeText={setSearchValue}
                             placeholder={inputPlaceholder || 'Search your country'}
@@ -495,3 +495,27 @@ const styles: { [key in StyleKeys]: ViewStyle } = {
         marginVertical: 5,
     },
 };
+
+function ensureNumeric(value) {
+    if (value === undefined || value === null) return undefined;
+    const num = Number(value);
+    return isNaN(num) ? undefined : num;
+}
+
+function processStyle(style) {
+    if (!style) return {};
+    const processed = { ...style };
+    
+    processed.borderRadius = ensureNumeric(processed.borderRadius);
+    processed.borderWidth = ensureNumeric(processed.borderWidth);
+    processed.borderTopWidth = ensureNumeric(processed.borderTopWidth);
+    processed.borderBottomWidth = ensureNumeric(processed.borderBottomWidth);
+    processed.borderLeftWidth = ensureNumeric(processed.borderLeftWidth);
+    processed.borderRightWidth = ensureNumeric(processed.borderRightWidth);
+    processed.borderTopLeftRadius = ensureNumeric(processed.borderTopLeftRadius);
+    processed.borderTopRightRadius = ensureNumeric(processed.borderTopRightRadius);
+    processed.borderBottomLeftRadius = ensureNumeric(processed.borderBottomLeftRadius);
+    processed.borderBottomRightRadius = ensureNumeric(processed.borderBottomRightRadius);
+    
+    return processed;
+}
