@@ -12,16 +12,91 @@ function processStyle(style: ViewStyle | undefined): ViewStyle {
     if (!style) return {};
     const processed = { ...style };
     
-    processed.borderRadius = ensureNumeric(processed.borderRadius);
-    processed.borderWidth = ensureNumeric(processed.borderWidth);
-    processed.borderTopWidth = ensureNumeric(processed.borderTopWidth);
-    processed.borderBottomWidth = ensureNumeric(processed.borderBottomWidth);
-    processed.borderLeftWidth = ensureNumeric(processed.borderLeftWidth);
-    processed.borderRightWidth = ensureNumeric(processed.borderRightWidth);
-    processed.borderTopLeftRadius = ensureNumeric(processed.borderTopLeftRadius);
-    processed.borderTopRightRadius = ensureNumeric(processed.borderTopRightRadius);
-    processed.borderBottomLeftRadius = ensureNumeric(processed.borderBottomLeftRadius);
-    processed.borderBottomRightRadius = ensureNumeric(processed.borderBottomRightRadius);
+    // Handle all numeric properties
+    const numericProps = [
+        'borderRadius',
+        'borderWidth',
+        'borderTopWidth',
+        'borderBottomWidth',
+        'borderLeftWidth',
+        'borderRightWidth',
+        'borderTopLeftRadius',
+        'borderTopRightRadius',
+        'borderBottomLeftRadius',
+        'borderBottomRightRadius',
+        'width',
+        'height',
+        'minWidth',
+        'maxWidth',
+        'minHeight',
+        'maxHeight',
+        'margin',
+        'marginTop',
+        'marginBottom',
+        'marginLeft',
+        'marginRight',
+        'marginHorizontal',
+        'marginVertical',
+        'padding',
+        'paddingTop',
+        'paddingBottom',
+        'paddingLeft',
+        'paddingRight',
+        'paddingHorizontal',
+        'paddingVertical',
+        'top',
+        'bottom',
+        'left',
+        'right',
+        'flex',
+        'flexGrow',
+        'flexShrink',
+        'flexBasis',
+        'aspectRatio',
+        'zIndex',
+        'opacity',
+        'elevation',
+        'shadowOpacity',
+        'shadowRadius',
+        'shadowOffset',
+        'transform',
+        'scale',
+        'scaleX',
+        'scaleY',
+        'translateX',
+        'translateY',
+        'rotate',
+        'rotateX',
+        'rotateY',
+        'perspective',
+        'skewX',
+        'skewY'
+    ];
+
+    numericProps.forEach(prop => {
+        if (prop in processed) {
+            processed[prop] = ensureNumeric(processed[prop]);
+        }
+    });
+
+    // Handle shadowOffset separately since it's an object
+    if (processed.shadowOffset) {
+        processed.shadowOffset = {
+            width: ensureNumeric(processed.shadowOffset.width),
+            height: ensureNumeric(processed.shadowOffset.height)
+        };
+    }
+
+    // Handle transform array separately
+    if (Array.isArray(processed.transform)) {
+        processed.transform = processed.transform.map(transform => {
+            const newTransform = { ...transform };
+            Object.keys(newTransform).forEach(key => {
+                newTransform[key] = ensureNumeric(newTransform[key]);
+            });
+            return newTransform;
+        });
+    }
     
     return processed;
 }
@@ -33,21 +108,27 @@ export const CountryButton = ({ item, name, style, ...rest }: ItemTemplateProps)
         {...rest}
     >
         <Text style={[
-            {
+            processStyle({
                 flex: 0.2
-            },
-            style?.flag
+            }),
+            processStyle(style?.flag)
         ]}>
             {item?.flag}
         </Text>
-        <Text style={[{
-            flex: 0.3,
-        }, style?.dialCode]}>
+        <Text style={[
+            processStyle({
+                flex: 0.3,
+            }),
+            processStyle(style?.dialCode)
+        ]}>
             {item?.dial_code}
         </Text>
-        <Text style={[{
-            flex: 1
-        }, style?.countryName]}>
+        <Text style={[
+            processStyle({
+                flex: 1
+            }),
+            processStyle(style?.countryName)
+        ]}>
             {name}
         </Text>
     </TouchableOpacity>
