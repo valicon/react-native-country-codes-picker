@@ -91,7 +91,6 @@ export const CountryPicker = ({
     itemTemplate: ItemTemplate = CountryButton,
     ...rest
 }: Props) => {
-    // ToDo refactor exclude and showOnly props to objects
     let filteredCodes = countriesRemover(excludedCountries);
     const keyboardStatus = useKeyboardStatus();
     const animationDriver = React.useRef(new Animated.Value(0)).current;
